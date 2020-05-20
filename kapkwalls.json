@@ -1,0 +1,88 @@
+{
+  "wallpapers": [
+    {
+		"name": "Chameleon",
+		"author": "@amyjoyhumphries",
+		"url": "https://raw.githubusercontent.com/undefyned/wallpapers_def/master/Chameleon.jpg",
+		"thumbnail": "https://raw.githubusercontent.com/undefyned/wallpapers_def/master/thumbs/Chameleon.webp",
+		"collections": "animals"
+	},
+      {
+		"name": "Vintage Crosswalk",
+		"author": "@behz",
+		"url": "https://raw.githubusercontent.com/undefyned/wallpapers_def/master/Vintage%20Crosswalk.jpg",
+		"thumbnail": "https://raw.githubusercontent.com/undefyned/wallpapers_def/master/thumbs/Vintage%20Crosswalk.webp",
+		"collections": "city,cars"
+	},
+      {
+		"name": "Checkerboard",
+		"author": "@cristina_gottardi",
+		"url": "https://raw.githubusercontent.com/undefyned/wallpapers_def/master/Checkerboard.jpg",
+		"thumbnail": "https://raw.githubusercontent.com/undefyned/wallpapers_def/master/thumbs/Checkerboard.webp",
+		"collections": "architecture"
+	},
+      {
+		"name": "Leopard",
+		"author": "@gerandeklerk",
+		"url": "https://raw.githubusercontent.com/undefyned/wallpapers_def/master/Leopard.jpg",
+		"thumbnail": "https://raw.githubusercontent.com/undefyned/wallpapers_def/master/thumbs/Leopard.webp",
+		"collections": "animals,nature"
+	},
+      {
+		"name": "Falling",
+		"author": "@greystorm",
+		"url": "https://raw.githubusercontent.com/undefyned/wallpapers_def/master/Falling.jpg",
+		"thumbnail": "https://raw.githubusercontent.com/undefyned/wallpapers_def/master/thumbs/Falling.webp",
+		"collections": "life"
+	},
+      {
+		"name": "Zebra",
+		"author": "@jakenackos",
+		"url": "https://raw.githubusercontent.com/undefyned/wallpapers_def/master/Zebra.jpg",
+		"thumbnail": "https://raw.githubusercontent.com/undefyned/wallpapers_def/master/thumbs/Zebra.webp",
+		"collections": "pattern"
+	},
+      {
+		"name": "Ocean",
+		"author": "@jareddrice",
+		"url": "https://raw.githubusercontent.com/undefyned/wallpapers_def/master/Ocean.jpg",
+		"thumbnail": "https://raw.githubusercontent.com/undefyned/wallpapers_def/master/thumbs/Ocean.webp",
+		"collections": "nature"
+	},
+      {
+		"name": "Lamp",
+		"author": "@jonnysplsh",
+		"url": "https://raw.githubusercontent.com/undefyned/wallpapers_def/master/Lamp.jpg",
+		"thumbnail": "https://raw.githubusercontent.com/undefyned/wallpapers_def/master/thumbs/Lamp.webp",
+		"collections": "objects"
+	},
+      {
+		"name": "Yawning",
+		"author": "@marco_biotico",
+		"url": "https://raw.githubusercontent.com/undefyned/wallpapers_def/master/Yawning.jpg",
+		"thumbnail": "https://raw.githubusercontent.com/undefyned/wallpapers_def/master/thumbs/Yawning.webp",
+		"collections": "animals"
+	},
+      {
+		"name": "Forest Walk",
+		"author": "@mischievous_penguins",
+		"url": "https://raw.githubusercontent.com/undefyned/wallpapers_def/master/Forest%20Walk.jpg",
+		"thumbnail": "https://raw.githubusercontent.com/undefyned/wallpapers_def/master/thumbs/Forest%20Walk.webp",
+		"collections": "nature,life"
+	},
+      {
+		"name": "Blued",
+		"author": "@pawel_czerwinski",
+		"url": "https://raw.githubusercontent.com/undefyned/wallpapers_def/master/Blued.jpg",
+		"thumbnail": "https://raw.githubusercontent.com/undefyned/wallpapers_def/master/thumbs/Blued.webp",
+		"collections": "abstract"
+	},
+      {
+		"name": "Draw",
+		"author": "@siloine",
+		"url": "https://raw.githubusercontent.com/undefyned/wallpapers_def/master/Draw.jpg",
+		"thumbnail": "https://raw.githubusercontent.com/undefyned/wallpapers_def/master/thumbs/Draw.webp",
+		"collections": "objects"
+	}
+]
+}
