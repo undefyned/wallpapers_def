@@ -1,5 +1,159 @@
 {
   "wallpapers": [
+	{
+        "name": "Gradient P Dark",
+        "author": "@imundefyned",
+        "url": "https://wallpeppers.web.app/images/wallpeppers/gradients/GRADIENT%20P%20DARK.png",
+        "thumbnail": "https://wallpeppers.web.app/images/wallpeppers/thumbs/gradients/GRADIENT%20P%20DARK.webp",
+        "collections": "gradients"
+        },
+    {
+        "name": "Gradient P Light",
+        "author": "@imundefyned",
+        "url": "https://wallpeppers.web.app/images/wallpeppers/gradients/GRADIENT%20P%20LIGHT.png",
+        "thumbnail": "https://wallpeppers.web.app/images/wallpeppers/thumbs/gradients/GRADIENT%20P%20LIGHT.webp",
+        "collections": "gradients"
+        },
+    {
+        "name": "Gradient BT",
+        "author": "@imundefyned",
+        "url": "https://wallpeppers.web.app/images/wallpeppers/gradients/GRADIENT%20BT.png",
+        "thumbnail": "https://wallpeppers.web.app/images/wallpeppers/thumbs/gradients/GRADIENT%20BT.webp",
+        "collections": "gradients"
+        },
+    {
+        "name": "Gradient Midnight",
+        "author": "@imundefyned",
+        "url": "https://wallpeppers.web.app/images/wallpeppers/gradients/GRADIENT%20MIDNIGHT.png",
+        "thumbnail": "https://wallpeppers.web.app/images/wallpeppers/thumbs/gradients/GRADIENT%20MIDNIGHT.webp",
+        "collections": "gradients"
+        },
+    {
+        "name": "Gradient X",
+        "author": "@imundefyned",
+        "url": "https://wallpeppers.web.app/images/wallpeppers/gradients/GRADIENT%20X.png",
+        "thumbnail": "https://wallpeppers.web.app/images/wallpeppers/thumbs/gradients/GRADIENT%20X.webp",
+        "collections": "gradients"
+        },
+    {
+        "name": "Iridescent One",
+        "author": "@imundefyned",
+        "url": "https://wallpeppers.web.app/images/wallpeppers/gradients/IRIDESCENT%20ONE.png",
+        "thumbnail": "https://wallpeppers.web.app/images/wallpeppers/thumbs/gradients/IRIDESCENT%20ONE.webp",
+        "collections": "gradients"
+        },
+    {
+        "name": "Iridescent Two",
+        "author": "@imundefyned",
+        "url": "https://wallpeppers.web.app/images/wallpeppers/gradients/IRIDESCENT%20TWO.png",
+        "thumbnail": "https://wallpeppers.web.app/images/wallpeppers/thumbs/gradients/IRIDESCENT%20TWO.webp",
+        "collections": "gradients"
+        },
+    {
+        "name": "Rainbow",
+        "author": "@imundefyned",
+        "url": "https://wallpeppers.web.app/images/wallpeppers/gradients/RAINBOW.png",
+        "thumbnail": "https://wallpeppers.web.app/images/wallpeppers/thumbs/gradients/RAINBOW.webp",
+        "collections": "gradients"
+        },
+    {
+        "name": "Graph",
+        "author": "@imundefyned",
+        "url": "https://wallpeppers.web.app/images/wallpeppers/patterns/GRAPH%20AMOLED.png",
+        "thumbnail": "https://wallpeppers.web.app/images/wallpeppers/thumbs/patterns/GRAPH%20AMOLED.webp",
+        "collections": "pattern"
+        },
+    {
+        "name": "Graph",
+        "author": "@imundefyned",
+        "url": "https://wallpeppers.web.app/images/wallpeppers/patterns/GRAPH.png",
+        "thumbnail": "https://wallpeppers.web.app/images/wallpeppers/thumbs/patterns/GRAPH.webp",
+        "collections": "pattern"
+        },
+    {
+        "name": "Aquarius",
+        "author": "@imundefyned",
+        "url": "https://wallpeppers.web.app/images/wallpeppers/constellations-amoled/AQUARIUS-amoled.png",
+        "thumbnail": "https://wallpeppers.web.app/images/wallpeppers/thumbs/constellations-amoled/AQUARIUS-amoled.webp",
+        "collections": "constellations"
+        },
+    {
+        "name": "Aries",
+        "author": "@imundefyned",
+        "url": "https://wallpeppers.web.app/images/wallpeppers/constellations-amoled/ARIES-amoled.png",
+        "thumbnail": "https://wallpeppers.web.app/images/wallpeppers/thumbs/constellations-amoled/ARIES-amoled.webp",
+        "collections": "constellations"
+        },
+    {
+        "name": "Cancer",
+        "author": "@imundefyned",
+        "url": "https://wallpeppers.web.app/images/wallpeppers/constellations-amoled/CANCER-amoled.png",
+        "thumbnail": "https://wallpeppers.web.app/images/wallpeppers/thumbs/constellations-amoled/CANCER-amoled.webp",
+        "collections": "constellations"
+        },
+    {
+        "name": "Capricorn",
+        "author": "@imundefyned",
+        "url": "https://wallpeppers.web.app/images/wallpeppers/constellations-amoled/CAPRICORN-amoled.png",
+        "thumbnail": "https://wallpeppers.web.app/images/wallpeppers/thumbs/constellations-amoled/CAPRICORN-amoled.webp",
+        "collections": "constellations"
+        },
+    {
+        "name": "Gemini",
+        "author": "@imundefyned",
+        "url": "https://wallpeppers.web.app/images/wallpeppers/constellations-amoled/GEMINI-amoled.png",
+        "thumbnail": "https://wallpeppers.web.app/images/wallpeppers/thumbs/constellations-amoled/GEMINI-amoled.webp",
+        "collections": "constellations"
+        },
+    {
+        "name": "Leo",
+        "author": "@imundefyned",
+        "url": "https://wallpeppers.web.app/images/wallpeppers/constellations-amoled/LEO-amoled.png",
+        "thumbnail": "https://wallpeppers.web.app/images/wallpeppers/thumbs/constellations-amoled/LEO-amoled.webp",
+        "collections": "constellations"
+        },
+    {
+        "name": "Libra",
+        "author": "@imundefyned",
+        "url": "https://wallpeppers.web.app/images/wallpeppers/constellations-amoled/LIBRA-amoled.png",
+        "thumbnail": "https://wallpeppers.web.app/images/wallpeppers/thumbs/constellations-amoled/LIBRA-amoled.webp",
+        "collections": "constellations"
+        },
+    {
+        "name": "Pisces",
+        "author": "@imundefyned",
+        "url": "https://wallpeppers.web.app/images/wallpeppers/constellations-amoled/PISCES-amoled.png",
+        "thumbnail": "https://wallpeppers.web.app/images/wallpeppers/thumbs/constellations-amoled/PISCES-amoled.webp",
+        "collections": "constellations"
+        },
+    {
+        "name": "Sagittarius",
+        "author": "@imundefyned",
+        "url": "https://wallpeppers.web.app/images/wallpeppers/constellations-amoled/SAGITTARIUS-amoled.png",
+        "thumbnail": "https://wallpeppers.web.app/images/wallpeppers/thumbs/constellations-amoled/SAGITTARIUS-amoled.webp",
+        "collections": "constellations"
+        },
+    {
+        "name": "Scorpio",
+        "author": "@imundefyned",
+        "url": "https://wallpeppers.web.app/images/wallpeppers/constellations-amoled/SCORPIO-amoled.png",
+        "thumbnail": "https://wallpeppers.web.app/images/wallpeppers/thumbs/constellations-amoled/SCORPIO-amoled.webp",
+        "collections": "constellations"
+        },
+    {
+        "name": "Taurus",
+        "author": "@imundefyned",
+        "url": "https://wallpeppers.web.app/images/wallpeppers/constellations-amoled/TAURUS-amoled.png",
+        "thumbnail": "https://wallpeppers.web.app/images/wallpeppers/thumbs/constellations-amoled/TAURUS-amoled.webp",
+        "collections": "constellations"
+        },
+    {
+        "name": "Virgo",
+        "author": "@imundefyned",
+        "url": "https://wallpeppers.web.app/images/wallpeppers/constellations-amoled/VIRGO-amoled.png",
+        "thumbnail": "https://wallpeppers.web.app/images/wallpeppers/thumbs/constellations-amoled/VIRGO-amoled.webp",
+        "collections": "constellations"
+        },
     {
 		"name": "Chameleon",
 		"author": "@amyjoyhumphries",
