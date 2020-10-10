@@ -1,49 +1,61 @@
 [
     {
+        "name": "Sprout",
+        "author": "imundefyned",
+        "url": "https://wallpeppers.web.app/static/images/wallpeppers/minimal/SPROUT.png",
+        "thumbnail": "https://wallpeppers.web.app/static/images/wallpeppers/thumbs/minimal/SPROUT.webp",
+        "collections": "ALL,MINIMAL"
+        }, {
+        "name": "Texts",
+        "author": "imundefyned",
+        "url": "https://wallpeppers.web.app/static/images/wallpeppers/patterns/TEXTS.png",
+        "thumbnail": "https://wallpeppers.web.app/static/images/wallpeppers/thumbs/patterns/TEXTS.webp",
+        "collections": "ALL,PATTERNS,"
+        }, {
         "name": "UIXD",
-        "author": "@imundefyned",
+        "author": "imundefyned",
         "url": "https://wallpeppers.web.app/static/images/wallpeppers/exclusive/UIXD.png",
         "thumbnail": "https://wallpeppers.web.app/static/images/wallpeppers/thumbs/exclusive/UIXD.webp",
         "collections": "ALL,EXCLUSIVE,MINIMAL"
         }, {
         "name": "Wilderness",
-        "author": "@imundefyned",
+        "author": "imundefyned",
         "url": "https://wallpeppers.web.app/static/images/wallpeppers/exclusive/WILDERNESS.png",
         "thumbnail": "https://wallpeppers.web.app/static/images/wallpeppers/thumbs/exclusive/WILDERNESS.webp",
         "collections": "ALL,EXCLUSIVE,INSPIRED"
         }, {
         "name": "Stax X",
-        "author": "@imundefyned",
+        "author": "imundefyned",
         "url": "https://wallpeppers.web.app/static/images/wallpeppers/exclusive/STAX%20X.png",
         "thumbnail": "https://wallpeppers.web.app/static/images/wallpeppers/thumbs/exclusive/STAX%20X.webp",
         "collections": "ALL,EXCLUSIVE"
         }, {
         "name": "Stax Y",
-        "author": "@imundefyned",
+        "author": "imundefyned",
         "url": "https://wallpeppers.web.app/static/images/wallpeppers/exclusive/STAX%20Y.png",
         "thumbnail": "https://wallpeppers.web.app/static/images/wallpeppers/thumbs/exclusive/STAX%20Y.webp",
         "collections": "ALL,EXCLUSIVE"
         }, {
         "name": "Shapd",
-        "author": "@imundefyned",
+        "author": "imundefyned",
         "url": "https://wallpeppers.web.app/static/images/wallpeppers/minimal/SHAPD.png",
         "thumbnail": "https://wallpeppers.web.app/static/images/wallpeppers/thumbs/minimal/SHAPD.webp",
         "collections": "ALL,MINIMAL"
         }, {
         "name": "Shapd AMOLED",
-        "author": "@imundefyned",
+        "author": "imundefyned",
         "url": "https://wallpeppers.web.app/static/images/wallpeppers/minimal/SHAPD%20AMOLED.png",
         "thumbnail": "https://wallpeppers.web.app/static/images/wallpeppers/thumbs/minimal/SHAPD%20AMOLED.webp",
         "collections": "ALL,MINIMAL"
         }, {
         "name": "Spiral",
-        "author": "@imundefyned",
+        "author": "imundefyned",
         "url": "https://wallpeppers.web.app/static/images/wallpeppers/patterns/SPIRAL.png",
         "thumbnail": "https://wallpeppers.web.app/static/images/wallpeppers/thumbs/patterns/SPIRAL.webp",
         "collections": "ALL,PATTERNS"
         }, {
         "name": "Float3",
-        "author": "@imundefyned",
+        "author": "imundefyned",
         "url": "https://wallpeppers.web.app/static/images/wallpeppers/minimal/FLOAT3.png",
         "thumbnail": "https://wallpeppers.web.app/static/images/wallpeppers/thumbs/minimal/FLOAT3.webp",
         "collections": "ALL,MINIMAL"
