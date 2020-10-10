@@ -1,4 +1,4 @@
-[
+const wallpaperList = [
     {
         "name": "Gradient :O",
         "author": "undefyned",
@@ -35,3 +35,5 @@
         "collections": "ALL,ABSTRACT,DARK"
     }
 ]
+
+export default wallpaperList;
