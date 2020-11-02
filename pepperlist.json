@@ -1,5 +1,53 @@
 [
     {
+        "name": "3N Purple",
+        "author": "imundefyned",
+        "url": "https://wallpeppers.web.app/static/images/wallpeppers/patterns/3N%20PURPLE.png",
+        "thumbnail": "https://wallpeppers.web.app/static/images/wallpeppers/thumbs/patterns/3N%20PURPLE.webp",
+        "collections": "ALL,PATTERNS"
+        }, {
+        "name": "3N Red",
+        "author": "imundefyned",
+        "url": "https://wallpeppers.web.app/static/images/wallpeppers/patterns/3N%20RED.png",
+        "thumbnail": "https://wallpeppers.web.app/static/images/wallpeppers/thumbs/patterns/3N%20RED.webp",
+        "collections": "ALL,PATTERNS"
+        }, {
+        "name": "Fries",
+        "author": "imundefyned",
+        "url": "https://wallpeppers.web.app/static/images/wallpeppers/textual/FRIES.png",
+        "thumbnail": "https://wallpeppers.web.app/static/images/wallpeppers/thumbs/textual/FRIES.webp",
+        "collections": "ALL,MINIMAL"
+        }, {
+        "name": "Fries AMOLED",
+        "author": "imundefyned",
+        "url": "https://wallpeppers.web.app/static/images/wallpeppers/textual/FRIES%20AMOLED.png",
+        "thumbnail": "https://wallpeppers.web.app/static/images/wallpeppers/thumbs/textual/FRIES%20AMOLED.webp",
+        "collections": "ALL,MINIMAL"
+        }, {
+        "name": "Pills",
+        "author": "imundefyned",
+        "url": "https://wallpeppers.web.app/static/images/wallpeppers/patterns/PILLS.png",
+        "thumbnail": "https://wallpeppers.web.app/static/images/wallpeppers/thumbs/patterns/PILLS.webp",
+        "collections": "ALL,PATTERNS"
+        }, {
+        "name": "Pills Dark",
+        "author": "imundefyned",
+        "url": "https://wallpeppers.web.app/static/images/wallpeppers/patterns/PILLS%20DARK.png",
+        "thumbnail": "https://wallpeppers.web.app/static/images/wallpeppers/thumbs/patterns/PILLS%20DARK.webp",
+        "collections": "ALL,PATTERNS"
+        }, {
+        "name": "Spiral Neon",
+        "author": "imundefyned",
+        "url": "https://wallpeppers.web.app/static/images/wallpeppers/patterns/SPIRAL%20NEON.png",
+        "thumbnail": "https://wallpeppers.web.app/static/images/wallpeppers/thumbs/patterns/SPIRAL%20NEON.webp",
+        "collections": "ALL,PATTERNS"
+        }, {
+        "name": "Spiral AMOLED",
+        "author": "imundefyned",
+        "url": "https://wallpeppers.web.app/static/images/wallpeppers/patterns/SPIRAL%20AMOLED.png",
+        "thumbnail": "https://wallpeppers.web.app/static/images/wallpeppers/thumbs/patterns/SPIRAL%20AMOLED.webp",
+        "collections": "ALL,PATTERNS"
+        }, {
         "name": "Flux",
         "author": "imundefyned",
         "url": "https://wallpeppers.web.app/static/images/wallpeppers/patterns/FLUX.png",
