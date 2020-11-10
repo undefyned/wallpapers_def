@@ -1,699 +1,729 @@
 [
-    {
+{
+        "name": "XS1 AMOLED",
+        "author": "@imundefyned",
+        "url": "https://raw.githubusercontent.com/undefyned/wallpeppers/master/images/exclusive/XS1%20AMOLED.png",
+        "thumbnail": "https://raw.githubusercontent.com/undefyned/wallpeppers/master/images/thumbs/exclusive/XS1%20AMOLED.webp",
+        "collections": "ALL,EXCLUSIVE"
+}, {
+        "name": "XS2 AMOLED",
+        "author": "@imundefyned",
+        "url": "https://raw.githubusercontent.com/undefyned/wallpeppers/master/images/exclusive/XS2%20AMOLED.png",
+        "thumbnail": "https://raw.githubusercontent.com/undefyned/wallpeppers/master/images/thumbs/exclusive/XS2%20AMOLED.webp",
+        "collections": "ALL,EXCLUSIVE"
+}, {
+        "name": "XS3 Light",
+        "author": "@imundefyned",
+        "url": "https://raw.githubusercontent.com/undefyned/wallpeppers/master/images/exclusive/XS3%20LIGHT.png",
+        "thumbnail": "https://raw.githubusercontent.com/undefyned/wallpeppers/master/images/thumbs/exclusive/XS3%20LIGHT.webp",
+        "collections": "ALL,EXCLUSIVE"
+}, {
+        "name": "XS4 Neon",
+        "author": "@imundefyned",
+        "url": "https://raw.githubusercontent.com/undefyned/wallpeppers/master/images/exclusive/XS4%20NEON.png",
+        "thumbnail": "https://raw.githubusercontent.com/undefyned/wallpeppers/master/images/thumbs/exclusive/XS4%20NEON.webp",
+        "collections": "ALL,EXCLUSIVE"
+}, {
+        "name": "XYZX",
+        "author": "@imundefyned",
+        "url": "https://raw.githubusercontent.com/undefyned/wallpeppers/master/images/textual/XYZX.png",
+        "thumbnail": "https://raw.githubusercontent.com/undefyned/wallpeppers/master/images/thumbs/textual/XYZX.webp",
+        "collections": "ALL,MINIMAL"
+}, {
         "name": "Redtangled",
-        "author": "imundefyned",
-        "url": "https://raw.githack.com/undefyned/wallpeppers/master/images/inspired/REDTANGLED.png",
+        "author": "@imundefyned",
+        "url": "https://raw.githubusercontent.com/undefyned/wallpeppers/master/images/inspired/REDTANGLED.png",
         "thumbnail": "https://raw.githubusercontent.com/undefyned/wallpeppers/master/images/thumbs/inspired/REDTANGLED.webp",
-        "collections": "ALL,EXCLUSIVE"
-        }, {
+        "collections": "ALL,INSPIRED"
+}, {
         "name": "3N Purple",
-        "author": "imundefyned",
-        "url": "https://wallpeppers.web.app/static/images/wallpeppers/patterns/3N%20PURPLE.png",
-        "thumbnail": "https://wallpeppers.web.app/static/images/wallpeppers/thumbs/patterns/3N%20PURPLE.webp",
+        "author": "@imundefyned",
+        "url": "https://raw.githubusercontent.com/undefyned/wallpeppers/master/images/patterns/3N%20PURPLE.png",
+        "thumbnail": "https://raw.githubusercontent.com/undefyned/wallpeppers/master/images/thumbs/patterns/3N%20PURPLE.webp",
         "collections": "ALL,PATTERNS"
-        }, {
+}, {
         "name": "3N Red",
-        "author": "imundefyned",
-        "url": "https://wallpeppers.web.app/static/images/wallpeppers/patterns/3N%20RED.png",
-        "thumbnail": "https://wallpeppers.web.app/static/images/wallpeppers/thumbs/patterns/3N%20RED.webp",
+        "author": "@imundefyned",
+        "url": "https://raw.githubusercontent.com/undefyned/wallpeppers/master/images/patterns/3N%20RED.png",
+        "thumbnail": "https://raw.githubusercontent.com/undefyned/wallpeppers/master/images/thumbs/patterns/3N%20RED.webp",
         "collections": "ALL,PATTERNS"
-        }, {
+}, {
         "name": "Fries",
-        "author": "imundefyned",
-        "url": "https://wallpeppers.web.app/static/images/wallpeppers/textual/FRIES.png",
-        "thumbnail": "https://wallpeppers.web.app/static/images/wallpeppers/thumbs/textual/FRIES.webp",
+        "author": "@imundefyned",
+        "url": "https://raw.githubusercontent.com/undefyned/wallpeppers/master/images/textual/FRIES.png",
+        "thumbnail": "https://raw.githubusercontent.com/undefyned/wallpeppers/master/images/thumbs/textual/FRIES.webp",
         "collections": "ALL,MINIMAL"
-        }, {
+}, {
         "name": "Fries AMOLED",
-        "author": "imundefyned",
-        "url": "https://wallpeppers.web.app/static/images/wallpeppers/textual/FRIES%20AMOLED.png",
-        "thumbnail": "https://wallpeppers.web.app/static/images/wallpeppers/thumbs/textual/FRIES%20AMOLED.webp",
+        "author": "@imundefyned",
+        "url": "https://raw.githubusercontent.com/undefyned/wallpeppers/master/images/textual/FRIES%20AMOLED.png",
+        "thumbnail": "https://raw.githubusercontent.com/undefyned/wallpeppers/master/images/thumbs/textual/FRIES%20AMOLED.webp",
         "collections": "ALL,MINIMAL"
-        }, {
+}, {
         "name": "Pills",
-        "author": "imundefyned",
-        "url": "https://wallpeppers.web.app/static/images/wallpeppers/patterns/PILLS.png",
-        "thumbnail": "https://wallpeppers.web.app/static/images/wallpeppers/thumbs/patterns/PILLS.webp",
+        "author": "@imundefyned",
+        "url": "https://raw.githubusercontent.com/undefyned/wallpeppers/master/images/patterns/PILLS.png",
+        "thumbnail": "https://raw.githubusercontent.com/undefyned/wallpeppers/master/images/thumbs/patterns/PILLS.webp",
         "collections": "ALL,PATTERNS"
-        }, {
+}, {
         "name": "Pills Dark",
-        "author": "imundefyned",
-        "url": "https://wallpeppers.web.app/static/images/wallpeppers/patterns/PILLS%20DARK.png",
-        "thumbnail": "https://wallpeppers.web.app/static/images/wallpeppers/thumbs/patterns/PILLS%20DARK.webp",
+        "author": "@imundefyned",
+        "url": "https://raw.githubusercontent.com/undefyned/wallpeppers/master/images/patterns/PILLS%20DARK.png",
+        "thumbnail": "https://raw.githubusercontent.com/undefyned/wallpeppers/master/images/thumbs/patterns/PILLS%20DARK.webp",
         "collections": "ALL,PATTERNS"
-        }, {
+}, {
         "name": "Spiral Neon",
-        "author": "imundefyned",
-        "url": "https://wallpeppers.web.app/static/images/wallpeppers/patterns/SPIRAL%20NEON.png",
-        "thumbnail": "https://wallpeppers.web.app/static/images/wallpeppers/thumbs/patterns/SPIRAL%20NEON.webp",
+        "author": "@imundefyned",
+        "url": "https://raw.githubusercontent.com/undefyned/wallpeppers/master/images/patterns/SPIRAL%20NEON.png",
+        "thumbnail": "https://raw.githubusercontent.com/undefyned/wallpeppers/master/images/thumbs/patterns/SPIRAL%20NEON.webp",
         "collections": "ALL,PATTERNS"
-        }, {
+}, {
         "name": "Spiral AMOLED",
-        "author": "imundefyned",
-        "url": "https://wallpeppers.web.app/static/images/wallpeppers/patterns/SPIRAL%20AMOLED.png",
-        "thumbnail": "https://wallpeppers.web.app/static/images/wallpeppers/thumbs/patterns/SPIRAL%20AMOLED.webp",
+        "author": "@imundefyned",
+        "url": "https://raw.githubusercontent.com/undefyned/wallpeppers/master/images/patterns/SPIRAL%20AMOLED.png",
+        "thumbnail": "https://raw.githubusercontent.com/undefyned/wallpeppers/master/images/thumbs/patterns/SPIRAL%20AMOLED.webp",
         "collections": "ALL,PATTERNS"
-        }, {
+}, {
         "name": "Flux",
-        "author": "imundefyned",
-        "url": "https://wallpeppers.web.app/static/images/wallpeppers/patterns/FLUX.png",
-        "thumbnail": "https://wallpeppers.web.app/static/images/wallpeppers/thumbs/patterns/FLUX.webp",
+        "author": "@imundefyned",
+        "url": "https://raw.githubusercontent.com/undefyned/wallpeppers/master/images/patterns/FLUX.png",
+        "thumbnail": "https://raw.githubusercontent.com/undefyned/wallpeppers/master/images/thumbs/patterns/FLUX.webp",
         "collections": "ALL,PATTERNS"
-        }, {
+}, {
         "name": "Velvet",
-        "author": "imundefyned",
-        "url": "https://wallpeppers.web.app/static/images/wallpeppers/patterns/VELVET.png",
-        "thumbnail": "https://wallpeppers.web.app/static/images/wallpeppers/thumbs/patterns/VELVET.webp",
+        "author": "@imundefyned",
+        "url": "https://raw.githubusercontent.com/undefyned/wallpeppers/master/images/patterns/VELVET.png",
+        "thumbnail": "https://raw.githubusercontent.com/undefyned/wallpeppers/master/images/thumbs/patterns/VELVET.webp",
         "collections": "ALL,PATTERNS"
-        }, {
+}, {
         "name": "Fibre",
-        "author": "imundefyned",
-        "url": "https://wallpeppers.web.app/static/images/wallpeppers/patterns/FIBRE.png",
-        "thumbnail": "https://wallpeppers.web.app/static/images/wallpeppers/thumbs/patterns/FIBRE.webp",
+        "author": "@imundefyned",
+        "url": "https://raw.githubusercontent.com/undefyned/wallpeppers/master/images/patterns/FIBRE.png",
+        "thumbnail": "https://raw.githubusercontent.com/undefyned/wallpeppers/master/images/thumbs/patterns/FIBRE.webp",
         "collections": "ALL,PATTERNS"
-        }, {
+}, {
         "name": "Spook",
-        "author": "imundefyned",
-        "url": "https://wallpeppers.web.app/static/images/wallpeppers/exclusive/SPOOK.png",
-        "thumbnail": "https://wallpeppers.web.app/static/images/wallpeppers/thumbs/exclusive/SPOOK.webp",
+        "author": "@imundefyned",
+        "url": "https://raw.githubusercontent.com/undefyned/wallpeppers/master/images/exclusive/SPOOK.png",
+        "thumbnail": "https://raw.githubusercontent.com/undefyned/wallpeppers/master/images/thumbs/exclusive/SPOOK.webp",
         "collections": "ALL,EXCLUSIVE"
-        }, {
+}, {
         "name": "Daunt",
-        "author": "imundefyned",
-        "url": "https://wallpeppers.web.app/static/images/wallpeppers/exclusive/DAUNT.png",
-        "thumbnail": "https://wallpeppers.web.app/static/images/wallpeppers/thumbs/exclusive/DAUNT.webp",
+        "author": "@imundefyned",
+        "url": "https://raw.githubusercontent.com/undefyned/wallpeppers/master/images/exclusive/DAUNT.png",
+        "thumbnail": "https://raw.githubusercontent.com/undefyned/wallpeppers/master/images/thumbs/exclusive/DAUNT.webp",
         "collections": "ALL,EXCLUSIVE"
-        }, {
+}, {
         "name": "Sprout",
-        "author": "imundefyned",
-        "url": "https://wallpeppers.web.app/static/images/wallpeppers/minimal/SPROUT.png",
-        "thumbnail": "https://wallpeppers.web.app/static/images/wallpeppers/thumbs/minimal/SPROUT.webp",
+        "author": "@imundefyned",
+        "url": "https://raw.githubusercontent.com/undefyned/wallpeppers/master/images/minimal/SPROUT.png",
+        "thumbnail": "https://raw.githubusercontent.com/undefyned/wallpeppers/master/images/thumbs/minimal/SPROUT.webp",
         "collections": "ALL,MINIMAL"
-        }, {
+}, {
         "name": "Texts",
-        "author": "imundefyned",
-        "url": "https://wallpeppers.web.app/static/images/wallpeppers/patterns/TEXTS.png",
-        "thumbnail": "https://wallpeppers.web.app/static/images/wallpeppers/thumbs/patterns/TEXTS.webp",
+        "author": "@imundefyned",
+        "url": "https://raw.githubusercontent.com/undefyned/wallpeppers/master/images/patterns/TEXTS.png",
+        "thumbnail": "https://raw.githubusercontent.com/undefyned/wallpeppers/master/images/thumbs/patterns/TEXTS.webp",
         "collections": "ALL,PATTERNS"
-        }, {
+}, {
         "name": "UIXD",
-        "author": "imundefyned",
-        "url": "https://wallpeppers.web.app/static/images/wallpeppers/exclusive/UIXD.png",
-        "thumbnail": "https://wallpeppers.web.app/static/images/wallpeppers/thumbs/exclusive/UIXD.webp",
-        "collections": "ALL,EXCLUSIVE,MINIMAL"
-        }, {
+        "author": "@imundefyned",
+        "url": "https://raw.githubusercontent.com/undefyned/wallpeppers/master/images/exclusive/UIXD.png",
+        "thumbnail": "https://raw.githubusercontent.com/undefyned/wallpeppers/master/images/thumbs/exclusive/UIXD.webp",
+        "collections": "ALL,EXCLUSIVE"
+}, {
         "name": "Wilderness",
-        "author": "imundefyned",
-        "url": "https://wallpeppers.web.app/static/images/wallpeppers/exclusive/WILDERNESS.png",
-        "thumbnail": "https://wallpeppers.web.app/static/images/wallpeppers/thumbs/exclusive/WILDERNESS.webp",
-        "collections": "ALL,EXCLUSIVE,INSPIRED"
-        }, {
+        "author": "@imundefyned",
+        "url": "https://raw.githubusercontent.com/undefyned/wallpeppers/master/images/exclusive/WILDERNESS.png",
+        "thumbnail": "https://raw.githubusercontent.com/undefyned/wallpeppers/master/images/thumbs/exclusive/WILDERNESS.webp",
+        "collections": "ALL,EXCLUSIVE"
+}, {
         "name": "Stax X",
-        "author": "imundefyned",
-        "url": "https://wallpeppers.web.app/static/images/wallpeppers/exclusive/STAX%20X.png",
-        "thumbnail": "https://wallpeppers.web.app/static/images/wallpeppers/thumbs/exclusive/STAX%20X.webp",
+        "author": "@imundefyned",
+        "url": "https://raw.githubusercontent.com/undefyned/wallpeppers/master/images/exclusive/STAX%20X.png",
+        "thumbnail": "https://raw.githubusercontent.com/undefyned/wallpeppers/master/images/thumbs/exclusive/STAX%20X.webp",
         "collections": "ALL,EXCLUSIVE"
-        }, {
+}, {
         "name": "Stax Y",
-        "author": "imundefyned",
-        "url": "https://wallpeppers.web.app/static/images/wallpeppers/exclusive/STAX%20Y.png",
-        "thumbnail": "https://wallpeppers.web.app/static/images/wallpeppers/thumbs/exclusive/STAX%20Y.webp",
+        "author": "@imundefyned",
+        "url": "https://raw.githubusercontent.com/undefyned/wallpeppers/master/images/exclusive/STAX%20Y.png",
+        "thumbnail": "https://raw.githubusercontent.com/undefyned/wallpeppers/master/images/thumbs/exclusive/STAX%20Y.webp",
         "collections": "ALL,EXCLUSIVE"
-        }, {
+}, {
         "name": "Shapd",
-        "author": "imundefyned",
-        "url": "https://wallpeppers.web.app/static/images/wallpeppers/minimal/SHAPD.png",
-        "thumbnail": "https://wallpeppers.web.app/static/images/wallpeppers/thumbs/minimal/SHAPD.webp",
+        "author": "@imundefyned",
+        "url": "https://raw.githubusercontent.com/undefyned/wallpeppers/master/images/minimal/SHAPD.png",
+        "thumbnail": "https://raw.githubusercontent.com/undefyned/wallpeppers/master/images/thumbs/minimal/SHAPD.webp",
         "collections": "ALL,MINIMAL"
-        }, {
+}, {
         "name": "Shapd AMOLED",
-        "author": "imundefyned",
-        "url": "https://wallpeppers.web.app/static/images/wallpeppers/minimal/SHAPD%20AMOLED.png",
-        "thumbnail": "https://wallpeppers.web.app/static/images/wallpeppers/thumbs/minimal/SHAPD%20AMOLED.webp",
+        "author": "@imundefyned",
+        "url": "https://raw.githubusercontent.com/undefyned/wallpeppers/master/images/minimal/SHAPD%20AMOLED.png",
+        "thumbnail": "https://raw.githubusercontent.com/undefyned/wallpeppers/master/images/thumbs/minimal/SHAPD%20AMOLED.webp",
         "collections": "ALL,MINIMAL"
-        }, {
+}, {
         "name": "Spiral",
-        "author": "imundefyned",
-        "url": "https://wallpeppers.web.app/static/images/wallpeppers/patterns/SPIRAL.png",
-        "thumbnail": "https://wallpeppers.web.app/static/images/wallpeppers/thumbs/patterns/SPIRAL.webp",
+        "author": "@imundefyned",
+        "url": "https://raw.githubusercontent.com/undefyned/wallpeppers/master/images/patterns/SPIRAL.png",
+        "thumbnail": "https://raw.githubusercontent.com/undefyned/wallpeppers/master/images/thumbs/patterns/SPIRAL.webp",
         "collections": "ALL,PATTERNS"
-        }, {
+}, {
         "name": "Float3",
-        "author": "imundefyned",
-        "url": "https://wallpeppers.web.app/static/images/wallpeppers/minimal/FLOAT3.png",
-        "thumbnail": "https://wallpeppers.web.app/static/images/wallpeppers/thumbs/minimal/FLOAT3.webp",
+        "author": "@imundefyned",
+        "url": "https://raw.githubusercontent.com/undefyned/wallpeppers/master/images/minimal/FLOAT3.png",
+        "thumbnail": "https://raw.githubusercontent.com/undefyned/wallpeppers/master/images/thumbs/minimal/FLOAT3.webp",
         "collections": "ALL,MINIMAL"
-        }, {
+}, {
         "name": "Lost Light",
-        "author": "imundefyned",
-        "url": "https://wallpeppers.web.app/static/images/wallpeppers/minimal/LOST%20LIGHT.png",
-        "thumbnail": "https://wallpeppers.web.app/static/images/wallpeppers/thumbs/minimal/LOST%20LIGHT.webp",
+        "author": "@imundefyned",
+        "url": "https://raw.githubusercontent.com/undefyned/wallpeppers/master/images/minimal/LOST%20LIGHT.png",
+        "thumbnail": "https://raw.githubusercontent.com/undefyned/wallpeppers/master/images/thumbs/minimal/LOST%20LIGHT.webp",
         "collections": "ALL,MINIMAL"
-        }, {
+}, {
         "name": "Lost AMOLED",
-        "author": "imundefyned",
-        "url": "https://wallpeppers.web.app/static/images/wallpeppers/minimal/LOST%20AMOLED.png",
-        "thumbnail": "https://wallpeppers.web.app/static/images/wallpeppers/thumbs/minimal/LOST%20AMOLED.webp",
+        "author": "@imundefyned",
+        "url": "https://raw.githubusercontent.com/undefyned/wallpeppers/master/images/minimal/LOST%20AMOLED.png",
+        "thumbnail": "https://raw.githubusercontent.com/undefyned/wallpeppers/master/images/thumbs/minimal/LOST%20AMOLED.webp",
         "collections": "ALL,MINIMAL"
-        }, {
+}, {
         "name": "Gradient Scales",
-        "author": "imundefyned",
-        "url": "https://wallpeppers.web.app/static/images/wallpeppers/gradients/GRADIENT%20SCALES.png",
-        "thumbnail": "https://wallpeppers.web.app/static/images/wallpeppers/thumbs/gradients/GRADIENT%20SCALES.webp",
+        "author": "@imundefyned",
+        "url": "https://raw.githubusercontent.com/undefyned/wallpeppers/master/images/gradients/GRADIENT%20SCALES.png",
+        "thumbnail": "https://raw.githubusercontent.com/undefyned/wallpeppers/master/images/thumbs/gradients/GRADIENT%20SCALES.webp",
         "collections": "ALL,GRADIENTS"
-        }, {
+}, {
         "name": "WASD Blu",
-        "author": "imundefyned",
-        "url": "https://wallpeppers.web.app/static/images/wallpeppers/inspired/WASD%20BLU.png",
-        "thumbnail": "https://wallpeppers.web.app/static/images/wallpeppers/thumbs/inspired/WASD%20BLU.webp",
+        "author": "@imundefyned",
+        "url": "https://raw.githubusercontent.com/undefyned/wallpeppers/master/images/inspired/WASD%20BLU.png",
+        "thumbnail": "https://raw.githubusercontent.com/undefyned/wallpeppers/master/images/thumbs/inspired/WASD%20BLU.webp",
         "collections": "ALL,INSPIRED"
-        }, {
+}, {
         "name": "WASD Red",
-        "author": "imundefyned",
-        "url": "https://wallpeppers.web.app/static/images/wallpeppers/inspired/WASD%20RED.png",
-        "thumbnail": "https://wallpeppers.web.app/static/images/wallpeppers/thumbs/inspired/WASD%20RED.webp",
+        "author": "@imundefyned",
+        "url": "https://raw.githubusercontent.com/undefyned/wallpeppers/master/images/inspired/WASD%20RED.png",
+        "thumbnail": "https://raw.githubusercontent.com/undefyned/wallpeppers/master/images/thumbs/inspired/WASD%20RED.webp",
         "collections": "ALL,INSPIRED"
-        }, {
+}, {
         "name": "MNML Blu",
-        "author": "imundefyned",
-        "url": "https://wallpeppers.web.app/static/images/wallpeppers/inspired/MNML%20BLU.png",
-        "thumbnail": "https://wallpeppers.web.app/static/images/wallpeppers/thumbs/inspired/MNML%20BLU.webp",
+        "author": "@imundefyned",
+        "url": "https://raw.githubusercontent.com/undefyned/wallpeppers/master/images/inspired/MNML%20BLU.png",
+        "thumbnail": "https://raw.githubusercontent.com/undefyned/wallpeppers/master/images/thumbs/inspired/MNML%20BLU.webp",
         "collections": "ALL,INSPIRED"
-        }, {
+}, {
         "name": "MNML Red",
-        "author": "imundefyned",
-        "url": "https://wallpeppers.web.app/static/images/wallpeppers/inspired/MNML%20RED.png",
-        "thumbnail": "https://wallpeppers.web.app/static/images/wallpeppers/thumbs/inspired/MNML%20RED.webp",
+        "author": "@imundefyned",
+        "url": "https://raw.githubusercontent.com/undefyned/wallpeppers/master/images/inspired/MNML%20RED.png",
+        "thumbnail": "https://raw.githubusercontent.com/undefyned/wallpeppers/master/images/thumbs/inspired/MNML%20RED.webp",
         "collections": "ALL,INSPIRED"
-        }, {
+}, {
         "name": "Trxy",
-        "author": "imundefyned",
-        "url": "https://wallpeppers.web.app/static/images/wallpeppers/patterns/TRXY.png",
-        "thumbnail": "https://wallpeppers.web.app/static/images/wallpeppers/thumbs/patterns/TRXY.webp",
+        "author": "@imundefyned",
+        "url": "https://raw.githubusercontent.com/undefyned/wallpeppers/master/images/patterns/TRXY.png",
+        "thumbnail": "https://raw.githubusercontent.com/undefyned/wallpeppers/master/images/thumbs/patterns/TRXY.webp",
         "collections": "ALL,PATTERNS"
-        }, {
+}, {
         "name": "Blocks",
-        "author": "imundefyned",
-        "url": "https://wallpeppers.web.app/static/images/wallpeppers/minimal/BLOCKS.png",
-        "thumbnail": "https://wallpeppers.web.app/static/images/wallpeppers/thumbs/minimal/BLOCKS.webp",
+        "author": "@imundefyned",
+        "url": "https://raw.githubusercontent.com/undefyned/wallpeppers/master/images/minimal/BLOCKS.png",
+        "thumbnail": "https://raw.githubusercontent.com/undefyned/wallpeppers/master/images/thumbs/minimal/BLOCKS.webp",
         "collections": "ALL,MINIMAL"
-        }, {
+}, {
         "name": "Sym Night",
-        "author": "imundefyned",
-        "url": "https://wallpeppers.web.app/static/images/wallpeppers/patterns/SYM%20NIGHT.png",
-        "thumbnail": "https://wallpeppers.web.app/static/images/wallpeppers/thumbs/patterns/SYM%20NIGHT.webp",
+        "author": "@imundefyned",
+        "url": "https://raw.githubusercontent.com/undefyned/wallpeppers/master/images/patterns/SYM%20NIGHT.png",
+        "thumbnail": "https://raw.githubusercontent.com/undefyned/wallpeppers/master/images/thumbs/patterns/SYM%20NIGHT.webp",
         "collections": "ALL,PATTERNS"
-        }, {
+}, {
         "name": "Sym AMOLED",
-        "author": "imundefyned",
-        "url": "https://wallpeppers.web.app/static/images/wallpeppers/patterns/SYM%20AMOLED.png",
-        "thumbnail": "https://wallpeppers.web.app/static/images/wallpeppers/thumbs/patterns/SYM%20AMOLED.webp",
+        "author": "@imundefyned",
+        "url": "https://raw.githubusercontent.com/undefyned/wallpeppers/master/images/patterns/SYM%20AMOLED.png",
+        "thumbnail": "https://raw.githubusercontent.com/undefyned/wallpeppers/master/images/thumbs/patterns/SYM%20AMOLED.webp",
         "collections": "ALL,PATTERNS"
-        }, {
+}, {
         "name": "Gradient Slices",
-        "author": "imundefyned",
-        "url": "https://wallpeppers.web.app/static/images/wallpeppers/gradients/GRADIENT%20SLICES.png",
-        "thumbnail": "https://wallpeppers.web.app/static/images/wallpeppers/thumbs/gradients/GRADIENT%20SLICES.webp",
+        "author": "@imundefyned",
+        "url": "https://raw.githubusercontent.com/undefyned/wallpeppers/master/images/gradients/GRADIENT%20SLICES.png",
+        "thumbnail": "https://raw.githubusercontent.com/undefyned/wallpeppers/master/images/thumbs/gradients/GRADIENT%20SLICES.webp",
         "collections": "ALL,GRADIENTS"
-        }, {
+}, {
         "name": "Gradient Z",
-        "author": "imundefyned",
-        "url": "https://wallpeppers.web.app/static/images/wallpeppers/gradients/GRADIENT%20Z.png",
-        "thumbnail": "https://wallpeppers.web.app/static/images/wallpeppers/thumbs/gradients/GRADIENT%20Z.webp",
+        "author": "@imundefyned",
+        "url": "https://raw.githubusercontent.com/undefyned/wallpeppers/master/images/gradients/GRADIENT%20Z.png",
+        "thumbnail": "https://raw.githubusercontent.com/undefyned/wallpeppers/master/images/thumbs/gradients/GRADIENT%20Z.webp",
         "collections": "ALL,GRADIENTS"
-        }, {
+}, {
         "name": "Illusion Buttons",
-        "author": "imundefyned",
-        "url": "https://wallpeppers.web.app/static/images/wallpeppers/illusion/ILLUSION%20BUTTONS.png",
-        "thumbnail": "https://wallpeppers.web.app/static/images/wallpeppers/thumbs/illusion/ILLUSION%20BUTTONS.webp",
+        "author": "@imundefyned",
+        "url": "https://raw.githubusercontent.com/undefyned/wallpeppers/master/images/illusion/ILLUSION%20BUTTONS.png",
+        "thumbnail": "https://raw.githubusercontent.com/undefyned/wallpeppers/master/images/thumbs/illusion/ILLUSION%20BUTTONS.webp",
         "collections": "ALL,ILLUSION"
-        }, {
+}, {
         "name": "Illusion",
-        "author": "imundefyned",
-        "url": "https://wallpeppers.web.app/static/images/wallpeppers/illusion/ILLUSION.png",
-        "thumbnail": "https://wallpeppers.web.app/static/images/wallpeppers/thumbs/illusion/ILLUSION.webp",
+        "author": "@imundefyned",
+        "url": "https://raw.githubusercontent.com/undefyned/wallpeppers/master/images/illusion/ILLUSION.png",
+        "thumbnail": "https://raw.githubusercontent.com/undefyned/wallpeppers/master/images/thumbs/illusion/ILLUSION.webp",
         "collections": "ALL,ILLUSION"
-        }, {
+}, {
         "name": "Illusion II",
-        "author": "imundefyned",
-        "url": "https://wallpeppers.web.app/static/images/wallpeppers/illusion/ILLUSION%20II.png",
-        "thumbnail": "https://wallpeppers.web.app/static/images/wallpeppers/thumbs/illusion/ILLUSION%20II.webp",
+        "author": "@imundefyned",
+        "url": "https://raw.githubusercontent.com/undefyned/wallpeppers/master/images/illusion/ILLUSION%20II.png",
+        "thumbnail": "https://raw.githubusercontent.com/undefyned/wallpeppers/master/images/thumbs/illusion/ILLUSION%20II.webp",
         "collections": "ALL,ILLUSION"
-        }, {
+}, {
         "name": "Cubes",
-        "author": "imundefyned",
-        "url": "https://wallpeppers.web.app/static/images/wallpeppers/illusion/CUBES.png",
-        "thumbnail": "https://wallpeppers.web.app/static/images/wallpeppers/thumbs/illusion/CUBES.webp",
+        "author": "@imundefyned",
+        "url": "https://raw.githubusercontent.com/undefyned/wallpeppers/master/images/illusion/CUBES.png",
+        "thumbnail": "https://raw.githubusercontent.com/undefyned/wallpeppers/master/images/thumbs/illusion/CUBES.webp",
         "collections": "ALL,ILLUSION"
-        }, {
+}, {
         "name": "GLXY",
-        "author": "imundefyned",
-        "url": "https://wallpeppers.web.app/static/images/wallpeppers/space/GLXY.png",
-        "thumbnail": "https://wallpeppers.web.app/static/images/wallpeppers/thumbs/space/GLXY.webp",
+        "author": "@imundefyned",
+        "url": "https://raw.githubusercontent.com/undefyned/wallpeppers/master/images/space/GLXY.png",
+        "thumbnail": "https://raw.githubusercontent.com/undefyned/wallpeppers/master/images/thumbs/space/GLXY.webp",
         "collections": "ALL,SPACE"
-        }, {
+}, {
         "name": "GLXY ALT",
-        "author": "imundefyned",
-        "url": "https://wallpeppers.web.app/static/images/wallpeppers/space/GLXY%20ALT.png",
-        "thumbnail": "https://wallpeppers.web.app/static/images/wallpeppers/thumbs/space/GLXY%20ALT.webp",
+        "author": "@imundefyned",
+        "url": "https://raw.githubusercontent.com/undefyned/wallpeppers/master/images/space/GLXY%20ALT.png",
+        "thumbnail": "https://raw.githubusercontent.com/undefyned/wallpeppers/master/images/thumbs/space/GLXY%20ALT.webp",
         "collections": "ALL,SPACE"
-        }, {
+}, {
         "name": "Pencil",
-        "author": "imundefyned",
-        "url": "https://wallpeppers.web.app/static/images/wallpeppers/minimal/PENCIL.png",
-        "thumbnail": "https://wallpeppers.web.app/static/images/wallpeppers/thumbs/minimal/PENCIL.webp",
+        "author": "@imundefyned",
+        "url": "https://raw.githubusercontent.com/undefyned/wallpeppers/master/images/minimal/PENCIL.png",
+        "thumbnail": "https://raw.githubusercontent.com/undefyned/wallpeppers/master/images/thumbs/minimal/PENCIL.webp",
         "collections": "ALL,MINIMAL"
-        }, {
+}, {
         "name": "Pencil AMOLED",
-        "author": "imundefyned",
-        "url": "https://wallpeppers.web.app/static/images/wallpeppers/minimal/PENCIL%20AMOLED.png",
-        "thumbnail": "https://wallpeppers.web.app/static/images/wallpeppers/thumbs/minimal/PENCIL%20AMOLED.webp",
+        "author": "@imundefyned",
+        "url": "https://raw.githubusercontent.com/undefyned/wallpeppers/master/images/minimal/PENCIL%20AMOLED.png",
+        "thumbnail": "https://raw.githubusercontent.com/undefyned/wallpeppers/master/images/thumbs/minimal/PENCIL%20AMOLED.webp",
         "collections": "ALL,MINIMAL"
-        }, {
+}, {
         "name": "Stripes",
-        "author": "imundefyned",
-        "url": "https://wallpeppers.web.app/static/images/wallpeppers/minimal/STRIPES.png",
-        "thumbnail": "https://wallpeppers.web.app/static/images/wallpeppers/thumbs/minimal/STRIPES.webp",
+        "author": "@imundefyned",
+        "url": "https://raw.githubusercontent.com/undefyned/wallpeppers/master/images/minimal/STRIPES.png",
+        "thumbnail": "https://raw.githubusercontent.com/undefyned/wallpeppers/master/images/thumbs/minimal/STRIPES.webp",
         "collections": "ALL,MINIMAL"
-        }, {
+}, {
         "name": "Rise",
-        "author": "imundefyned",
-        "url": "https://wallpeppers.web.app/static/images/wallpeppers/inspired/RISE.png",
-        "thumbnail": "https://wallpeppers.web.app/static/images/wallpeppers/thumbs/inspired/RISE.webp",
+        "author": "@imundefyned",
+        "url": "https://raw.githubusercontent.com/undefyned/wallpeppers/master/images/inspired/RISE.png",
+        "thumbnail": "https://raw.githubusercontent.com/undefyned/wallpeppers/master/images/thumbs/inspired/RISE.webp",
         "collections": "ALL,INSPIRED"
-        }, {
+}, {
         "name": "Rise Vibrant",
-        "author": "imundefyned",
-        "url": "https://wallpeppers.web.app/static/images/wallpeppers/inspired/RISE%20VIBRANT.png",
-        "thumbnail": "https://wallpeppers.web.app/static/images/wallpeppers/thumbs/inspired/RISE%20VIBRANT.webp",
+        "author": "@imundefyned",
+        "url": "https://raw.githubusercontent.com/undefyned/wallpeppers/master/images/inspired/RISE%20VIBRANT.png",
+        "thumbnail": "https://raw.githubusercontent.com/undefyned/wallpeppers/master/images/thumbs/inspired/RISE%20VIBRANT.webp",
         "collections": "ALL,INSPIRED"
-        }, {
+}, {
         "name": "T-Rex Silhouette",
-        "author": "imundefyned",
-        "url": "https://wallpeppers.web.app/static/images/wallpeppers/minimal/TREX%20SILHOUETTE.png",
-        "thumbnail": "https://wallpeppers.web.app/static/images/wallpeppers/thumbs/minimal/TREX%20SILHOUETTE.webp",
+        "author": "@imundefyned",
+        "url": "https://raw.githubusercontent.com/undefyned/wallpeppers/master/images/minimal/TREX%20SILHOUETTE.png",
+        "thumbnail": "https://raw.githubusercontent.com/undefyned/wallpeppers/master/images/thumbs/minimal/TREX%20SILHOUETTE.webp",
         "collections": "ALL,MINIMAL"
-        }, {
+}, {
         "name": "T-Rex Red",
-        "author": "imundefyned",
-        "url": "https://wallpeppers.web.app/static/images/wallpeppers/minimal/TREX%20RED.png",
-        "thumbnail": "https://wallpeppers.web.app/static/images/wallpeppers/thumbs/minimal/TREX%20RED.webp",
+        "author": "@imundefyned",
+        "url": "https://raw.githubusercontent.com/undefyned/wallpeppers/master/images/minimal/TREX%20RED.png",
+        "thumbnail": "https://raw.githubusercontent.com/undefyned/wallpeppers/master/images/thumbs/minimal/TREX%20RED.webp",
         "collections": "ALL,MINIMAL"
-        }, {
+}, {
         "name": "Zap",
-        "author": "imundefyned",
-        "url": "https://wallpeppers.web.app/static/images/wallpeppers/minimal/ZAP.png",
-        "thumbnail": "https://wallpeppers.web.app/static/images/wallpeppers/thumbs/minimal/ZAP.webp",
+        "author": "@imundefyned",
+        "url": "https://raw.githubusercontent.com/undefyned/wallpeppers/master/images/minimal/ZAP.png",
+        "thumbnail": "https://raw.githubusercontent.com/undefyned/wallpeppers/master/images/thumbs/minimal/ZAP.webp",
         "collections": "ALL,MINIMAL"
-        }, {
+}, {
         "name": "Carbon Fiber",
-        "author": "imundefyned",
-        "url": "https://wallpeppers.web.app/static/images/wallpeppers/patterns/CARBON%20FIBER.png",
-        "thumbnail": "https://wallpeppers.web.app/static/images/wallpeppers/thumbs/patterns/CARBON%20FIBER.webp",
+        "author": "@imundefyned",
+        "url": "https://raw.githubusercontent.com/undefyned/wallpeppers/master/images/patterns/CARBON%20FIBER.png",
+        "thumbnail": "https://raw.githubusercontent.com/undefyned/wallpeppers/master/images/thumbs/patterns/CARBON%20FIBER.webp",
         "collections": "ALL,PATTERNS"
-        }, {
+}, {
         "name": "Tiled Pattern",
-        "author": "imundefyned",
-        "url": "https://wallpeppers.web.app/static/images/wallpeppers/patterns/TILED%20PATTERN.png",
-        "thumbnail": "https://wallpeppers.web.app/static/images/wallpeppers/thumbs/patterns/TILED%20PATTERN.webp",
+        "author": "@imundefyned",
+        "url": "https://raw.githubusercontent.com/undefyned/wallpeppers/master/images/patterns/TILED%20PATTERN.png",
+        "thumbnail": "https://raw.githubusercontent.com/undefyned/wallpeppers/master/images/thumbs/patterns/TILED%20PATTERN.webp",
         "collections": "ALL,PATTERNS"
-        }, {
+}, {
         "name": "Aquarius AMOLED",
-        "author": "imundefyned",
-        "url": "https://wallpeppers.web.app/static/images/wallpeppers/constellations-amoled/AQUARIUS-amoled.png",
-        "thumbnail": "https://wallpeppers.web.app/static/images/wallpeppers/thumbs/constellations-amoled/AQUARIUS-amoled.webp",
+        "author": "@imundefyned",
+        "url": "https://raw.githubusercontent.com/undefyned/wallpeppers/master/images/constellations-amoled/AQUARIUS-amoled.png",
+        "thumbnail": "https://raw.githubusercontent.com/undefyned/wallpeppers/master/images/thumbs/constellations-amoled/AQUARIUS-amoled.webp",
         "collections": "ALL,CONSTELLATION"
-        }, {
+}, {
         "name": "Aries AMOLED",
-        "author": "imundefyned",
-        "url": "https://wallpeppers.web.app/static/images/wallpeppers/constellations-amoled/ARIES-amoled.png",
-        "thumbnail": "https://wallpeppers.web.app/static/images/wallpeppers/thumbs/constellations-amoled/ARIES-amoled.webp",
+        "author": "@imundefyned",
+        "url": "https://raw.githubusercontent.com/undefyned/wallpeppers/master/images/constellations-amoled/ARIES-amoled.png",
+        "thumbnail": "https://raw.githubusercontent.com/undefyned/wallpeppers/master/images/thumbs/constellations-amoled/ARIES-amoled.webp",
         "collections": "ALL,CONSTELLATION"
-        }, {
+}, {
         "name": "Cancer AMOLED",
-        "author": "imundefyned",
-        "url": "https://wallpeppers.web.app/static/images/wallpeppers/constellations-amoled/CANCER-amoled.png",
-        "thumbnail": "https://wallpeppers.web.app/static/images/wallpeppers/thumbs/constellations-amoled/CANCER-amoled.webp",
+        "author": "@imundefyned",
+        "url": "https://raw.githubusercontent.com/undefyned/wallpeppers/master/images/constellations-amoled/CANCER-amoled.png",
+        "thumbnail": "https://raw.githubusercontent.com/undefyned/wallpeppers/master/images/thumbs/constellations-amoled/CANCER-amoled.webp",
         "collections": "ALL,CONSTELLATION"
-        }, {
+}, {
         "name": "Capricorn AMOLED",
-        "author": "imundefyned",
-        "url": "https://wallpeppers.web.app/static/images/wallpeppers/constellations-amoled/CAPRICORN-amoled.png",
-        "thumbnail": "https://wallpeppers.web.app/static/images/wallpeppers/thumbs/constellations-amoled/CAPRICORN-amoled.webp",
+        "author": "@imundefyned",
+        "url": "https://raw.githubusercontent.com/undefyned/wallpeppers/master/images/constellations-amoled/CAPRICORN-amoled.png",
+        "thumbnail": "https://raw.githubusercontent.com/undefyned/wallpeppers/master/images/thumbs/constellations-amoled/CAPRICORN-amoled.webp",
         "collections": "ALL,CONSTELLATION"
-        }, {
+}, {
         "name": "Gemini AMOLED",
-        "author": "imundefyned",
-        "url": "https://wallpeppers.web.app/static/images/wallpeppers/constellations-amoled/GEMINI-amoled.png",
-        "thumbnail": "https://wallpeppers.web.app/static/images/wallpeppers/thumbs/constellations-amoled/GEMINI-amoled.webp",
+        "author": "@imundefyned",
+        "url": "https://raw.githubusercontent.com/undefyned/wallpeppers/master/images/constellations-amoled/GEMINI-amoled.png",
+        "thumbnail": "https://raw.githubusercontent.com/undefyned/wallpeppers/master/images/thumbs/constellations-amoled/GEMINI-amoled.webp",
         "collections": "ALL,CONSTELLATION"
-        }, {
+}, {
         "name": "Leo AMOLED",
-        "author": "imundefyned",
-        "url": "https://wallpeppers.web.app/static/images/wallpeppers/constellations-amoled/LEO-amoled.png",
-        "thumbnail": "https://wallpeppers.web.app/static/images/wallpeppers/thumbs/constellations-amoled/LEO-amoled.webp",
+        "author": "@imundefyned",
+        "url": "https://raw.githubusercontent.com/undefyned/wallpeppers/master/images/constellations-amoled/LEO-amoled.png",
+        "thumbnail": "https://raw.githubusercontent.com/undefyned/wallpeppers/master/images/thumbs/constellations-amoled/LEO-amoled.webp",
         "collections": "ALL,CONSTELLATION"
-        }, {
+}, {
         "name": "Libra AMOLED",
-        "author": "imundefyned",
-        "url": "https://wallpeppers.web.app/static/images/wallpeppers/constellations-amoled/LIBRA-amoled.png",
-        "thumbnail": "https://wallpeppers.web.app/static/images/wallpeppers/thumbs/constellations-amoled/LIBRA-amoled.webp",
+        "author": "@imundefyned",
+        "url": "https://raw.githubusercontent.com/undefyned/wallpeppers/master/images/constellations-amoled/LIBRA-amoled.png",
+        "thumbnail": "https://raw.githubusercontent.com/undefyned/wallpeppers/master/images/thumbs/constellations-amoled/LIBRA-amoled.webp",
         "collections": "ALL,CONSTELLATION"
-        }, {
+}, {
         "name": "Pisces AMOLED",
-        "author": "imundefyned",
-        "url": "https://wallpeppers.web.app/static/images/wallpeppers/constellations-amoled/PISCES-amoled.png",
-        "thumbnail": "https://wallpeppers.web.app/static/images/wallpeppers/thumbs/constellations-amoled/PISCES-amoled.webp",
+        "author": "@imundefyned",
+        "url": "https://raw.githubusercontent.com/undefyned/wallpeppers/master/images/constellations-amoled/PISCES-amoled.png",
+        "thumbnail": "https://raw.githubusercontent.com/undefyned/wallpeppers/master/images/thumbs/constellations-amoled/PISCES-amoled.webp",
         "collections": "ALL,CONSTELLATION"
-        }, {
+}, {
         "name": "Sagittarius AMOLED",
-        "author": "imundefyned",
-        "url": "https://wallpeppers.web.app/static/images/wallpeppers/constellations-amoled/SAGITTARIUS-amoled.png",
-        "thumbnail": "https://wallpeppers.web.app/static/images/wallpeppers/thumbs/constellations-amoled/SAGITTARIUS-amoled.webp",
+        "author": "@imundefyned",
+        "url": "https://raw.githubusercontent.com/undefyned/wallpeppers/master/images/constellations-amoled/SAGITTARIUS-amoled.png",
+        "thumbnail": "https://raw.githubusercontent.com/undefyned/wallpeppers/master/images/thumbs/constellations-amoled/SAGITTARIUS-amoled.webp",
         "collections": "ALL,CONSTELLATION"
-        }, {
+}, {
         "name": "Scorpio AMOLED",
-        "author": "imundefyned",
-        "url": "https://wallpeppers.web.app/static/images/wallpeppers/constellations-amoled/SCORPIO-amoled.png",
-        "thumbnail": "https://wallpeppers.web.app/static/images/wallpeppers/thumbs/constellations-amoled/SCORPIO-amoled.webp",
+        "author": "@imundefyned",
+        "url": "https://raw.githubusercontent.com/undefyned/wallpeppers/master/images/constellations-amoled/SCORPIO-amoled.png",
+        "thumbnail": "https://raw.githubusercontent.com/undefyned/wallpeppers/master/images/thumbs/constellations-amoled/SCORPIO-amoled.webp",
         "collections": "ALL,CONSTELLATION"
-        }, {
+}, {
         "name": "Taurus AMOLED",
-        "author": "imundefyned",
-        "url": "https://wallpeppers.web.app/static/images/wallpeppers/constellations-amoled/TAURUS-amoled.png",
-        "thumbnail": "https://wallpeppers.web.app/static/images/wallpeppers/thumbs/constellations-amoled/TAURUS-amoled.webp",
+        "author": "@imundefyned",
+        "url": "https://raw.githubusercontent.com/undefyned/wallpeppers/master/images/constellations-amoled/TAURUS-amoled.png",
+        "thumbnail": "https://raw.githubusercontent.com/undefyned/wallpeppers/master/images/thumbs/constellations-amoled/TAURUS-amoled.webp",
         "collections": "ALL,CONSTELLATION"
-        }, {
+}, {
         "name": "Virgo AMOLED",
-        "author": "imundefyned",
-        "url": "https://wallpeppers.web.app/static/images/wallpeppers/constellations-amoled/VIRGO-amoled.png",
-        "thumbnail": "https://wallpeppers.web.app/static/images/wallpeppers/thumbs/constellations-amoled/VIRGO-amoled.webp",
+        "author": "@imundefyned",
+        "url": "https://raw.githubusercontent.com/undefyned/wallpeppers/master/images/constellations-amoled/VIRGO-amoled.png",
+        "thumbnail": "https://raw.githubusercontent.com/undefyned/wallpeppers/master/images/thumbs/constellations-amoled/VIRGO-amoled.webp",
         "collections": "ALL,CONSTELLATION"
-        }, {
+}, {
         "name": "Aquarius",
-        "author": "imundefyned",
-        "url": "https://wallpeppers.web.app/static/images/wallpeppers/constellations/AQUARIUS.png",
-        "thumbnail": "https://wallpeppers.web.app/static/images/wallpeppers/thumbs/constellations/AQUARIUS.webp",
+        "author": "@imundefyned",
+        "url": "https://raw.githubusercontent.com/undefyned/wallpeppers/master/images/constellations/AQUARIUS.png",
+        "thumbnail": "https://raw.githubusercontent.com/undefyned/wallpeppers/master/images/thumbs/constellations/AQUARIUS.webp",
         "collections": "ALL,CONSTELLATION"
-        }, {
+}, {
         "name": "Aries",
-        "author": "imundefyned",
-        "url": "https://wallpeppers.web.app/static/images/wallpeppers/constellations/ARIES.png",
-        "thumbnail": "https://wallpeppers.web.app/static/images/wallpeppers/thumbs/constellations/ARIES.webp",
+        "author": "@imundefyned",
+        "url": "https://raw.githubusercontent.com/undefyned/wallpeppers/master/images/constellations/ARIES.png",
+        "thumbnail": "https://raw.githubusercontent.com/undefyned/wallpeppers/master/images/thumbs/constellations/ARIES.webp",
         "collections": "ALL,CONSTELLATION"
-        }, {
+}, {
         "name": "Cancer",
-        "author": "imundefyned",
-        "url": "https://wallpeppers.web.app/static/images/wallpeppers/constellations/CANCER.png",
-        "thumbnail": "https://wallpeppers.web.app/static/images/wallpeppers/thumbs/constellations/CANCER.webp",
+        "author": "@imundefyned",
+        "url": "https://raw.githubusercontent.com/undefyned/wallpeppers/master/images/constellations/CANCER.png",
+        "thumbnail": "https://raw.githubusercontent.com/undefyned/wallpeppers/master/images/thumbs/constellations/CANCER.webp",
         "collections": "ALL,CONSTELLATION"
-        }, {
+}, {
         "name": "Capricorn",
-        "author": "imundefyned",
-        "url": "https://wallpeppers.web.app/static/images/wallpeppers/constellations/CAPRICORN.png",
-        "thumbnail": "https://wallpeppers.web.app/static/images/wallpeppers/thumbs/constellations/CAPRICORN.webp",
+        "author": "@imundefyned",
+        "url": "https://raw.githubusercontent.com/undefyned/wallpeppers/master/images/constellations/CAPRICORN.png",
+        "thumbnail": "https://raw.githubusercontent.com/undefyned/wallpeppers/master/images/thumbs/constellations/CAPRICORN.webp",
         "collections": "ALL,CONSTELLATION"
-        }, {
+}, {
         "name": "Gemini",
-        "author": "imundefyned",
-        "url": "https://wallpeppers.web.app/static/images/wallpeppers/constellations/GEMINI.png",
-        "thumbnail": "https://wallpeppers.web.app/static/images/wallpeppers/thumbs/constellations/GEMINI.webp",
+        "author": "@imundefyned",
+        "url": "https://raw.githubusercontent.com/undefyned/wallpeppers/master/images/constellations/GEMINI.png",
+        "thumbnail": "https://raw.githubusercontent.com/undefyned/wallpeppers/master/images/thumbs/constellations/GEMINI.webp",
         "collections": "ALL,CONSTELLATION"
-        }, {
+}, {
         "name": "Leo",
-        "author": "imundefyned",
-        "url": "https://wallpeppers.web.app/static/images/wallpeppers/constellations/LEO.png",
-        "thumbnail": "https://wallpeppers.web.app/static/images/wallpeppers/thumbs/constellations/LEO.webp",
+        "author": "@imundefyned",
+        "url": "https://raw.githubusercontent.com/undefyned/wallpeppers/master/images/constellations/LEO.png",
+        "thumbnail": "https://raw.githubusercontent.com/undefyned/wallpeppers/master/images/thumbs/constellations/LEO.webp",
         "collections": "ALL,CONSTELLATION"
-        }, {
+}, {
         "name": "Libra",
-        "author": "imundefyned",
-        "url": "https://wallpeppers.web.app/static/images/wallpeppers/constellations/LIBRA.png",
-        "thumbnail": "https://wallpeppers.web.app/static/images/wallpeppers/thumbs/constellations/LIBRA.webp",
+        "author": "@imundefyned",
+        "url": "https://raw.githubusercontent.com/undefyned/wallpeppers/master/images/constellations/LIBRA.png",
+        "thumbnail": "https://raw.githubusercontent.com/undefyned/wallpeppers/master/images/thumbs/constellations/LIBRA.webp",
         "collections": "ALL,CONSTELLATION"
-        }, {
+}, {
         "name": "Pisces",
-        "author": "imundefyned",
-        "url": "https://wallpeppers.web.app/static/images/wallpeppers/constellations/PISCES.png",
-        "thumbnail": "https://wallpeppers.web.app/static/images/wallpeppers/thumbs/constellations/PISCES.webp",
+        "author": "@imundefyned",
+        "url": "https://raw.githubusercontent.com/undefyned/wallpeppers/master/images/constellations/PISCES.png",
+        "thumbnail": "https://raw.githubusercontent.com/undefyned/wallpeppers/master/images/thumbs/constellations/PISCES.webp",
         "collections": "ALL,CONSTELLATION"
-        }, {
+}, {
         "name": "Sagittarius",
-        "author": "imundefyned",
-        "url": "https://wallpeppers.web.app/static/images/wallpeppers/constellations/SAGITTARIUS.png",
-        "thumbnail": "https://wallpeppers.web.app/static/images/wallpeppers/thumbs/constellations/SAGITTARIUS.webp",
+        "author": "@imundefyned",
+        "url": "https://raw.githubusercontent.com/undefyned/wallpeppers/master/images/constellations/SAGITTARIUS.png",
+        "thumbnail": "https://raw.githubusercontent.com/undefyned/wallpeppers/master/images/thumbs/constellations/SAGITTARIUS.webp",
         "collections": "ALL,CONSTELLATION"
-        }, {
+}, {
         "name": "Scorpio",
-        "author": "imundefyned",
-        "url": "https://wallpeppers.web.app/static/images/wallpeppers/constellations/SCORPIO.png",
-        "thumbnail": "https://wallpeppers.web.app/static/images/wallpeppers/thumbs/constellations/SCORPIO.webp",
+        "author": "@imundefyned",
+        "url": "https://raw.githubusercontent.com/undefyned/wallpeppers/master/images/constellations/SCORPIO.png",
+        "thumbnail": "https://raw.githubusercontent.com/undefyned/wallpeppers/master/images/thumbs/constellations/SCORPIO.webp",
         "collections": "ALL,CONSTELLATION"
-        }, {
+}, {
         "name": "Taurus",
-        "author": "imundefyned",
-        "url": "https://wallpeppers.web.app/static/images/wallpeppers/constellations/TAURUS.png",
-        "thumbnail": "https://wallpeppers.web.app/static/images/wallpeppers/thumbs/constellations/TAURUS.webp",
+        "author": "@imundefyned",
+        "url": "https://raw.githubusercontent.com/undefyned/wallpeppers/master/images/constellations/TAURUS.png",
+        "thumbnail": "https://raw.githubusercontent.com/undefyned/wallpeppers/master/images/thumbs/constellations/TAURUS.webp",
         "collections": "ALL,CONSTELLATION"
-        }, {
+}, {
         "name": "Virgo",
-        "author": "imundefyned",
-        "url": "https://wallpeppers.web.app/static/images/wallpeppers/constellations/VIRGO.png",
-        "thumbnail": "https://wallpeppers.web.app/static/images/wallpeppers/thumbs/constellations/VIRGO.webp",
+        "author": "@imundefyned",
+        "url": "https://raw.githubusercontent.com/undefyned/wallpeppers/master/images/constellations/VIRGO.png",
+        "thumbnail": "https://raw.githubusercontent.com/undefyned/wallpeppers/master/images/thumbs/constellations/VIRGO.webp",
         "collections": "ALL,CONSTELLATION"
-        }, {
+}, {
         "name": "Wow A Shark",
-        "author": "imundefyned",
-        "url": "https://wallpeppers.web.app/static/images/wallpeppers/minimal/WOW%20A%20SHARK.png",
-        "thumbnail": "https://wallpeppers.web.app/static/images/wallpeppers/thumbs/minimal/WOW%20A%20SHARK.webp",
+        "author": "@imundefyned",
+        "url": "https://raw.githubusercontent.com/undefyned/wallpeppers/master/images/minimal/WOW%20A%20SHARK.png",
+        "thumbnail": "https://raw.githubusercontent.com/undefyned/wallpeppers/master/images/thumbs/minimal/WOW%20A%20SHARK.webp",
         "collections": "ALL,MINIMAL"
-        }, {
+}, {
         "name": "Knowerehere",
-        "author": "imundefyned",
-        "url": "https://wallpeppers.web.app/static/images/wallpeppers/minimal/KNOWEREHERE.png",
-        "thumbnail": "https://wallpeppers.web.app/static/images/wallpeppers/thumbs/minimal/KNOWEREHERE.webp",
+        "author": "@imundefyned",
+        "url": "https://raw.githubusercontent.com/undefyned/wallpeppers/master/images/minimal/KNOWEREHERE.png",
+        "thumbnail": "https://raw.githubusercontent.com/undefyned/wallpeppers/master/images/thumbs/minimal/KNOWEREHERE.webp",
         "collections": "ALL,MINIMAL"
-        }, {
+}, {
         "name": "Knowerehere Dark",
-        "author": "imundefyned",
-        "url": "https://wallpeppers.web.app/static/images/wallpeppers/minimal/KNOWEREHERE%20DARK.png",
-        "thumbnail": "https://wallpeppers.web.app/static/images/wallpeppers/thumbs/minimal/KNOWEREHERE%20DARK.webp",
+        "author": "@imundefyned",
+        "url": "https://raw.githubusercontent.com/undefyned/wallpeppers/master/images/minimal/KNOWEREHERE%20DARK.png",
+        "thumbnail": "https://raw.githubusercontent.com/undefyned/wallpeppers/master/images/thumbs/minimal/KNOWEREHERE%20DARK.webp",
         "collections": "ALL,MINIMAL"
-        }, {
+}, {
         "name": "Desert",
-        "author": "imundefyned",
-        "url": "https://wallpeppers.web.app/static/images/wallpeppers/minimal/DESERT.png",
-        "thumbnail": "https://wallpeppers.web.app/static/images/wallpeppers/thumbs/minimal/DESERT.webp",
+        "author": "@imundefyned",
+        "url": "https://raw.githubusercontent.com/undefyned/wallpeppers/master/images/minimal/DESERT.png",
+        "thumbnail": "https://raw.githubusercontent.com/undefyned/wallpeppers/master/images/thumbs/minimal/DESERT.webp",
         "collections": "ALL,MINIMAL"
-        }, {
+}, {
         "name": "Desert Night",
-        "author": "imundefyned",
-        "url": "https://wallpeppers.web.app/static/images/wallpeppers/minimal/DESERT%20NIGHT.png",
-        "thumbnail": "https://wallpeppers.web.app/static/images/wallpeppers/thumbs/minimal/DESERT%20NIGHT.webp",
+        "author": "@imundefyned",
+        "url": "https://raw.githubusercontent.com/undefyned/wallpeppers/master/images/minimal/DESERT%20NIGHT.png",
+        "thumbnail": "https://raw.githubusercontent.com/undefyned/wallpeppers/master/images/thumbs/minimal/DESERT%20NIGHT.webp",
         "collections": "ALL,MINIMAL"
-        }, {
+}, {
         "name": "Balloons",
-        "author": "imundefyned",
-        "url": "https://wallpeppers.web.app/static/images/wallpeppers/space/BALLOONS.png",
-        "thumbnail": "https://wallpeppers.web.app/static/images/wallpeppers/thumbs/space/BALLOONS.webp",
+        "author": "@imundefyned",
+        "url": "https://raw.githubusercontent.com/undefyned/wallpeppers/master/images/space/BALLOONS.png",
+        "thumbnail": "https://raw.githubusercontent.com/undefyned/wallpeppers/master/images/thumbs/space/BALLOONS.webp",
         "collections": "ALL,SPACE"
-        }, {
+}, {
         "name": "Balloons AMOLED",
-        "author": "imundefyned",
-        "url": "https://wallpeppers.web.app/static/images/wallpeppers/space/BALLOONS%20AMOLED.png",
-        "thumbnail": "https://wallpeppers.web.app/static/images/wallpeppers/thumbs/space/BALLOONS%20AMOLED.webp",
+        "author": "@imundefyned",
+        "url": "https://raw.githubusercontent.com/undefyned/wallpeppers/master/images/space/BALLOONS%20AMOLED.png",
+        "thumbnail": "https://raw.githubusercontent.com/undefyned/wallpeppers/master/images/thumbs/space/BALLOONS%20AMOLED.webp",
         "collections": "ALL,SPACE"
-        }, {
+}, {
         "name": "Gradient P Dark",
-        "author": "imundefyned",
-        "url": "https://wallpeppers.web.app/static/images/wallpeppers/gradients/GRADIENT%20P%20DARK.png",
-        "thumbnail": "https://wallpeppers.web.app/static/images/wallpeppers/thumbs/gradients/GRADIENT%20P%20DARK.webp",
+        "author": "@imundefyned",
+        "url": "https://raw.githubusercontent.com/undefyned/wallpeppers/master/images/gradients/GRADIENT%20P%20DARK.png",
+        "thumbnail": "https://raw.githubusercontent.com/undefyned/wallpeppers/master/images/thumbs/gradients/GRADIENT%20P%20DARK.webp",
         "collections": "ALL,GRADIENTS"
-        }, {
+}, {
         "name": "Gradient P Light",
-        "author": "imundefyned",
-        "url": "https://wallpeppers.web.app/static/images/wallpeppers/gradients/GRADIENT%20P%20LIGHT.png",
-        "thumbnail": "https://wallpeppers.web.app/static/images/wallpeppers/thumbs/gradients/GRADIENT%20P%20LIGHT.webp",
+        "author": "@imundefyned",
+        "url": "https://raw.githubusercontent.com/undefyned/wallpeppers/master/images/gradients/GRADIENT%20P%20LIGHT.png",
+        "thumbnail": "https://raw.githubusercontent.com/undefyned/wallpeppers/master/images/thumbs/gradients/GRADIENT%20P%20LIGHT.webp",
         "collections": "ALL,GRADIENTS"
-        }, {
+}, {
         "name": "Gradient BT",
-        "author": "imundefyned",
-        "url": "https://wallpeppers.web.app/static/images/wallpeppers/gradients/GRADIENT%20BT.png",
-        "thumbnail": "https://wallpeppers.web.app/static/images/wallpeppers/thumbs/gradients/GRADIENT%20BT.webp",
+        "author": "@imundefyned",
+        "url": "https://raw.githubusercontent.com/undefyned/wallpeppers/master/images/gradients/GRADIENT%20BT.png",
+        "thumbnail": "https://raw.githubusercontent.com/undefyned/wallpeppers/master/images/thumbs/gradients/GRADIENT%20BT.webp",
         "collections": "ALL,GRADIENTS"
-        }, {
+}, {
         "name": "Gradient Midnight",
-        "author": "imundefyned",
-        "url": "https://wallpeppers.web.app/static/images/wallpeppers/gradients/GRADIENT%20MIDNIGHT.png",
-        "thumbnail": "https://wallpeppers.web.app/static/images/wallpeppers/thumbs/gradients/GRADIENT%20MIDNIGHT.webp",
+        "author": "@imundefyned",
+        "url": "https://raw.githubusercontent.com/undefyned/wallpeppers/master/images/gradients/GRADIENT%20MIDNIGHT.png",
+        "thumbnail": "https://raw.githubusercontent.com/undefyned/wallpeppers/master/images/thumbs/gradients/GRADIENT%20MIDNIGHT.webp",
         "collections": "ALL,GRADIENTS"
-        }, {
+}, {
         "name": "Gradient X",
-        "author": "imundefyned",
-        "url": "https://wallpeppers.web.app/static/images/wallpeppers/gradients/GRADIENT%20X.png",
-        "thumbnail": "https://wallpeppers.web.app/static/images/wallpeppers/thumbs/gradients/GRADIENT%20X.webp",
+        "author": "@imundefyned",
+        "url": "https://raw.githubusercontent.com/undefyned/wallpeppers/master/images/gradients/GRADIENT%20X.png",
+        "thumbnail": "https://raw.githubusercontent.com/undefyned/wallpeppers/master/images/thumbs/gradients/GRADIENT%20X.webp",
         "collections": "ALL,GRADIENTS"
-        }, {
+}, {
         "name": "Iridescent One",
-        "author": "imundefyned",
-        "url": "https://wallpeppers.web.app/static/images/wallpeppers/gradients/IRIDESCENT%20ONE.png",
-        "thumbnail": "https://wallpeppers.web.app/static/images/wallpeppers/thumbs/gradients/IRIDESCENT%20ONE.webp",
+        "author": "@imundefyned",
+        "url": "https://raw.githubusercontent.com/undefyned/wallpeppers/master/images/gradients/IRIDESCENT%20ONE.png",
+        "thumbnail": "https://raw.githubusercontent.com/undefyned/wallpeppers/master/images/thumbs/gradients/IRIDESCENT%20ONE.webp",
         "collections": "ALL,GRADIENTS"
-        }, {
+}, {
         "name": "Iridescent Two",
-        "author": "imundefyned",
-        "url": "https://wallpeppers.web.app/static/images/wallpeppers/gradients/IRIDESCENT%20TWO.png",
-        "thumbnail": "https://wallpeppers.web.app/static/images/wallpeppers/thumbs/gradients/IRIDESCENT%20TWO.webp",
+        "author": "@imundefyned",
+        "url": "https://raw.githubusercontent.com/undefyned/wallpeppers/master/images/gradients/IRIDESCENT%20TWO.png",
+        "thumbnail": "https://raw.githubusercontent.com/undefyned/wallpeppers/master/images/thumbs/gradients/IRIDESCENT%20TWO.webp",
         "collections": "ALL,GRADIENTS"
-        }, {
+}, {
         "name": "Rainbow",
-        "author": "imundefyned",
-        "url": "https://wallpeppers.web.app/static/images/wallpeppers/gradients/RAINBOW.png",
-        "thumbnail": "https://wallpeppers.web.app/static/images/wallpeppers/thumbs/gradients/RAINBOW.webp",
+        "author": "@imundefyned",
+        "url": "https://raw.githubusercontent.com/undefyned/wallpeppers/master/images/gradients/RAINBOW.png",
+        "thumbnail": "https://raw.githubusercontent.com/undefyned/wallpeppers/master/images/thumbs/gradients/RAINBOW.webp",
         "collections": "ALL,GRADIENTS"
-        }, {
+}, {
         "name": "Tri Neon",
-        "author": "imundefyned",
-        "url": "https://wallpeppers.web.app/static/images/wallpeppers/patterns/TRI%20NEON.png",
-        "thumbnail": "https://wallpeppers.web.app/static/images/wallpeppers/thumbs/patterns/TRI%20NEON.webp",
+        "author": "@imundefyned",
+        "url": "https://raw.githubusercontent.com/undefyned/wallpeppers/master/images/patterns/TRI%20NEON.png",
+        "thumbnail": "https://raw.githubusercontent.com/undefyned/wallpeppers/master/images/thumbs/patterns/TRI%20NEON.webp",
         "collections": "ALL,PATTERNS"
-        }, {
+}, {
         "name": "Tri Spiral",
-        "author": "imundefyned",
-        "url": "https://wallpeppers.web.app/static/images/wallpeppers/patterns/TRI%20SPIRAL.png",
-        "thumbnail": "https://wallpeppers.web.app/static/images/wallpeppers/thumbs/patterns/TRI%20SPIRAL.webp",
+        "author": "@imundefyned",
+        "url": "https://raw.githubusercontent.com/undefyned/wallpeppers/master/images/patterns/TRI%20SPIRAL.png",
+        "thumbnail": "https://raw.githubusercontent.com/undefyned/wallpeppers/master/images/thumbs/patterns/TRI%20SPIRAL.webp",
         "collections": "ALL,PATTERNS"
-        }, {
+}, {
         "name": "Eleven",
-        "author": "imundefyned",
-        "url": "https://wallpeppers.web.app/static/images/wallpeppers/patterns/ELEVEN.png",
-        "thumbnail": "https://wallpeppers.web.app/static/images/wallpeppers/thumbs/patterns/ELEVEN.webp",
+        "author": "@imundefyned",
+        "url": "https://raw.githubusercontent.com/undefyned/wallpeppers/master/images/patterns/ELEVEN.png",
+        "thumbnail": "https://raw.githubusercontent.com/undefyned/wallpeppers/master/images/thumbs/patterns/ELEVEN.webp",
         "collections": "ALL,PATTERNS"
-        }, {
+}, {
         "name": "Eleven AMOLED",
-        "author": "imundefyned",
-        "url": "https://wallpeppers.web.app/static/images/wallpeppers/patterns/ELEVEN%20AMOLED.png",
-        "thumbnail": "https://wallpeppers.web.app/static/images/wallpeppers/thumbs/patterns/ELEVEN%20AMOLED.webp",
+        "author": "@imundefyned",
+        "url": "https://raw.githubusercontent.com/undefyned/wallpeppers/master/images/patterns/ELEVEN%20AMOLED.png",
+        "thumbnail": "https://raw.githubusercontent.com/undefyned/wallpeppers/master/images/thumbs/patterns/ELEVEN%20AMOLED.webp",
         "collections": "ALL,PATTERNS"
-        }, {
+}, {
         "name": "Buttons",
-        "author": "imundefyned",
-        "url": "https://wallpeppers.web.app/static/images/wallpeppers/patterns/BUTTONS.png",
-        "thumbnail": "https://wallpeppers.web.app/static/images/wallpeppers/thumbs/patterns/BUTTONS.webp",
+        "author": "@imundefyned",
+        "url": "https://raw.githubusercontent.com/undefyned/wallpeppers/master/images/patterns/BUTTONS.png",
+        "thumbnail": "https://raw.githubusercontent.com/undefyned/wallpeppers/master/images/thumbs/patterns/BUTTONS.webp",
         "collections": "ALL,PATTERNS"
-        }, {
+}, {
         "name": "Buttons AMOLED",
-        "author": "imundefyned",
-        "url": "https://wallpeppers.web.app/static/images/wallpeppers/patterns/BUTTONS%20AMOLED.png",
-        "thumbnail": "https://wallpeppers.web.app/static/images/wallpeppers/thumbs/patterns/BUTTONS%20AMOLED.webp",
+        "author": "@imundefyned",
+        "url": "https://raw.githubusercontent.com/undefyned/wallpeppers/master/images/patterns/BUTTONS%20AMOLED.png",
+        "thumbnail": "https://raw.githubusercontent.com/undefyned/wallpeppers/master/images/thumbs/patterns/BUTTONS%20AMOLED.webp",
         "collections": "ALL,PATTERNS"
-        }, {
+}, {
         "name": "Bubbles Amber",
-        "author": "imundefyned",
-        "url": "https://wallpeppers.web.app/static/images/wallpeppers/patterns/BUBBLES%20AMBER.png",
-        "thumbnail": "https://wallpeppers.web.app/static/images/wallpeppers/thumbs/patterns/BUBBLES%20AMBER.webp",
+        "author": "@imundefyned",
+        "url": "https://raw.githubusercontent.com/undefyned/wallpeppers/master/images/patterns/BUBBLES%20AMBER.png",
+        "thumbnail": "https://raw.githubusercontent.com/undefyned/wallpeppers/master/images/thumbs/patterns/BUBBLES%20AMBER.webp",
         "collections": "ALL,PATTERNS"
-        }, {
+}, {
         "name": "Bubbles Teal",
-        "author": "imundefyned",
-        "url": "https://wallpeppers.web.app/static/images/wallpeppers/patterns/BUBBLES%20TEAL.png",
-        "thumbnail": "https://wallpeppers.web.app/static/images/wallpeppers/thumbs/patterns/BUBBLES%20TEAL.webp",
+        "author": "@imundefyned",
+        "url": "https://raw.githubusercontent.com/undefyned/wallpeppers/master/images/patterns/BUBBLES%20TEAL.png",
+        "thumbnail": "https://raw.githubusercontent.com/undefyned/wallpeppers/master/images/thumbs/patterns/BUBBLES%20TEAL.webp",
         "collections": "ALL,PATTERNS"
-        }, {
+}, {
         "name": "Graph AMOLED",
-        "author": "imundefyned",
-        "url": "https://wallpeppers.web.app/static/images/wallpeppers/patterns/GRAPH%20AMOLED.png",
-        "thumbnail": "https://wallpeppers.web.app/static/images/wallpeppers/thumbs/patterns/GRAPH%20AMOLED.webp",
+        "author": "@imundefyned",
+        "url": "https://raw.githubusercontent.com/undefyned/wallpeppers/master/images/patterns/GRAPH%20AMOLED.png",
+        "thumbnail": "https://raw.githubusercontent.com/undefyned/wallpeppers/master/images/thumbs/patterns/GRAPH%20AMOLED.webp",
         "collections": "ALL,PATTERNS"
-        }, {
+}, {
         "name": "Graph",
-        "author": "imundefyned",
-        "url": "https://wallpeppers.web.app/static/images/wallpeppers/patterns/GRAPH.png",
-        "thumbnail": "https://wallpeppers.web.app/static/images/wallpeppers/thumbs/patterns/GRAPH.webp",
+        "author": "@imundefyned",
+        "url": "https://raw.githubusercontent.com/undefyned/wallpeppers/master/images/patterns/GRAPH.png",
+        "thumbnail": "https://raw.githubusercontent.com/undefyned/wallpeppers/master/images/thumbs/patterns/GRAPH.webp",
         "collections": "ALL,PATTERNS"
-        }, {
+}, {
         "name": "Gradient RP",
-        "author": "imundefyned",
-        "url": "https://wallpeppers.web.app/static/images/wallpeppers/patterns/GRADIENT%20RP.png",
-        "thumbnail": "https://wallpeppers.web.app/static/images/wallpeppers/thumbs/patterns/GRADIENT%20RP.webp",
+        "author": "@imundefyned",
+        "url": "https://raw.githubusercontent.com/undefyned/wallpeppers/master/images/patterns/GRADIENT%20RP.png",
+        "thumbnail": "https://raw.githubusercontent.com/undefyned/wallpeppers/master/images/thumbs/patterns/GRADIENT%20RP.webp",
         "collections": "ALL,PATTERNS"
-        }, {
+}, {
         "name": "A Wallpepper",
-        "author": "imundefyned",
-        "url": "https://wallpeppers.web.app/static/images/wallpeppers/patterns/A%20WALLPEPPER.png",
-        "thumbnail": "https://wallpeppers.web.app/static/images/wallpeppers/thumbs/patterns/A%20WALLPEPPER.webp",
+        "author": "@imundefyned",
+        "url": "https://raw.githubusercontent.com/undefyned/wallpeppers/master/images/patterns/A%20WALLPEPPER.png",
+        "thumbnail": "https://raw.githubusercontent.com/undefyned/wallpeppers/master/images/thumbs/patterns/A%20WALLPEPPER.webp",
         "collections": "ALL,PATTERNS"
-        }, {
+}, {
         "name": "Split Triangle",
-        "author": "imundefyned",
-        "url": "https://wallpeppers.web.app/static/images/wallpeppers/patterns/SPLIT%20TRIANGLE.png",
-        "thumbnail": "https://wallpeppers.web.app/static/images/wallpeppers/thumbs/patterns/SPLIT%20TRIANGLE.webp",
+        "author": "@imundefyned",
+        "url": "https://raw.githubusercontent.com/undefyned/wallpeppers/master/images/patterns/SPLIT%20TRIANGLE.png",
+        "thumbnail": "https://raw.githubusercontent.com/undefyned/wallpeppers/master/images/thumbs/patterns/SPLIT%20TRIANGLE.webp",
         "collections": "ALL,PATTERNS"
-        }, {
+}, {
         "name": "Plus Pattern",
-        "author": "imundefyned",
-        "url": "https://wallpeppers.web.app/static/images/wallpeppers/patterns/PLUS%20PATTERN.png",
-        "thumbnail": "https://wallpeppers.web.app/static/images/wallpeppers/thumbs/patterns/PLUS%20PATTERN.webp",
+        "author": "@imundefyned",
+        "url": "https://raw.githubusercontent.com/undefyned/wallpeppers/master/images/patterns/PLUS%20PATTERN.png",
+        "thumbnail": "https://raw.githubusercontent.com/undefyned/wallpeppers/master/images/thumbs/patterns/PLUS%20PATTERN.webp",
         "collections": "ALL,PATTERNS"
-        }, {
+}, {
         "name": "Retrowave One",
-        "author": "imundefyned",
-        "url": "https://wallpeppers.web.app/static/images/wallpeppers/inspired/RETROWAVE%20ONE.png",
-        "thumbnail": "https://wallpeppers.web.app/static/images/wallpeppers/thumbs/inspired/RETROWAVE%20ONE.webp",
+        "author": "@imundefyned",
+        "url": "https://raw.githubusercontent.com/undefyned/wallpeppers/master/images/inspired/RETROWAVE%20ONE.png",
+        "thumbnail": "https://raw.githubusercontent.com/undefyned/wallpeppers/master/images/thumbs/inspired/RETROWAVE%20ONE.webp",
         "collections": "ALL,INSPIRED"
-        }, {
+}, {
         "name": "Retrowave Two",
-        "author": "imundefyned",
-        "url": "https://wallpeppers.web.app/static/images/wallpeppers/inspired/RETROWAVE%20TWO.png",
-        "thumbnail": "https://wallpeppers.web.app/static/images/wallpeppers/thumbs/inspired/RETROWAVE%20TWO.webp",
+        "author": "@imundefyned",
+        "url": "https://raw.githubusercontent.com/undefyned/wallpeppers/master/images/inspired/RETROWAVE%20TWO.png",
+        "thumbnail": "https://raw.githubusercontent.com/undefyned/wallpeppers/master/images/thumbs/inspired/RETROWAVE%20TWO.webp",
         "collections": "ALL,INSPIRED"
-        }, {
+}, {
         "name": "iOS Inspired",
-        "author": "imundefyned",
-        "url": "https://wallpeppers.web.app/static/images/wallpeppers/inspired/IOS%20INSPIRED.png",
-        "thumbnail": "https://wallpeppers.web.app/static/images/wallpeppers/thumbs/inspired/IOS%20INSPIRED.webp",
+        "author": "@imundefyned",
+        "url": "https://raw.githubusercontent.com/undefyned/wallpeppers/master/images/inspired/IOS%20INSPIRED.png",
+        "thumbnail": "https://raw.githubusercontent.com/undefyned/wallpeppers/master/images/thumbs/inspired/IOS%20INSPIRED.webp",
         "collections": "ALL,INSPIRED"
-        }, {
+}, {
         "name": "macOS Inspired",
-        "author": "imundefyned",
-        "url": "https://wallpeppers.web.app/static/images/wallpeppers/inspired/MACOS%20INSPIRED.png",
-        "thumbnail": "https://wallpeppers.web.app/static/images/wallpeppers/thumbs/inspired/MACOS%20INSPIRED.webp",
+        "author": "@imundefyned",
+        "url": "https://raw.githubusercontent.com/undefyned/wallpeppers/master/images/inspired/MACOS%20INSPIRED.png",
+        "thumbnail": "https://raw.githubusercontent.com/undefyned/wallpeppers/master/images/thumbs/inspired/MACOS%20INSPIRED.webp",
         "collections": "ALL,INSPIRED"
-        }, {
+}, {
         "name": "NURKO",
-        "author": "imundefyned",
-        "url": "https://wallpeppers.web.app/static/images/wallpeppers/exclusive/NURKO%20X%20RETROWAVE.png",
-        "thumbnail": "https://wallpeppers.web.app/static/images/wallpeppers/thumbs/exclusive/NURKO%20X%20RETROWAVE.webp",
+        "author": "@imundefyned",
+        "url": "https://raw.githubusercontent.com/undefyned/wallpeppers/master/images/exclusive/NURKO%20X%20RETROWAVE.png",
+        "thumbnail": "https://raw.githubusercontent.com/undefyned/wallpeppers/master/images/thumbs/exclusive/NURKO%20X%20RETROWAVE.webp",
         "collections": "ALL,EXCLUSIVE"
-        }, {
+}, {
         "name": "Apple Pie",
-        "author": "imundefyned",
-        "url": "https://wallpeppers.web.app/static/images/wallpeppers/exclusive/APPLE%20PIE.png",
-        "thumbnail": "https://wallpeppers.web.app/static/images/wallpeppers/thumbs/exclusive/APPLE%20PIE.webp",
+        "author": "@imundefyned",
+        "url": "https://raw.githubusercontent.com/undefyned/wallpeppers/master/images/exclusive/APPLE%20PIE.png",
+        "thumbnail": "https://raw.githubusercontent.com/undefyned/wallpeppers/master/images/thumbs/exclusive/APPLE%20PIE.webp",
         "collections": "ALL,EXCLUSIVE"
-        }, {
+}, {
         "name": "Love Is Gone",
-        "author": "imundefyned",
-        "url": "https://wallpeppers.web.app/static/images/wallpeppers/exclusive/LOVE%20IS%20GONE.png",
-        "thumbnail": "https://wallpeppers.web.app/static/images/wallpeppers/thumbs/exclusive/LOVE%20IS%20GONE.webp",
+        "author": "@imundefyned",
+        "url": "https://raw.githubusercontent.com/undefyned/wallpeppers/master/images/exclusive/LOVE%20IS%20GONE.png",
+        "thumbnail": "https://raw.githubusercontent.com/undefyned/wallpeppers/master/images/thumbs/exclusive/LOVE%20IS%20GONE.webp",
         "collections": "ALL,EXCLUSIVE"
-        }, {
+}, {
         "name": "Love Is Gone",
-        "author": "imundefyned",
-        "url": "https://wallpeppers.web.app/static/images/wallpeppers/exclusive/LOVE%20IS%20GONE%20AMOLED.png",
-        "thumbnail": "https://wallpeppers.web.app/static/images/wallpeppers/thumbs/exclusive/LOVE%20IS%20GONE%20AMOLED.webp",
+        "author": "@imundefyned",
+        "url": "https://raw.githubusercontent.com/undefyned/wallpeppers/master/images/exclusive/LOVE%20IS%20GONE%20AMOLED.png",
+        "thumbnail": "https://raw.githubusercontent.com/undefyned/wallpeppers/master/images/thumbs/exclusive/LOVE%20IS%20GONE%20AMOLED.webp",
         "collections": "ALL,EXCLUSIVE"
-        }, {
+}, {
         "name": "Love Is Gone 2",
-        "author": "imundefyned",
-        "url": "https://wallpeppers.web.app/static/images/wallpeppers/exclusive/LOVE%20IS%20GONE%202.png",
-        "thumbnail": "https://wallpeppers.web.app/static/images/wallpeppers/thumbs/exclusive/LOVE%20IS%20GONE%202.webp",
+        "author": "@imundefyned",
+        "url": "https://raw.githubusercontent.com/undefyned/wallpeppers/master/images/exclusive/LOVE%20IS%20GONE%202.png",
+        "thumbnail": "https://raw.githubusercontent.com/undefyned/wallpeppers/master/images/thumbs/exclusive/LOVE%20IS%20GONE%202.webp",
         "collections": "ALL,EXCLUSIVE"
-        }, {
+}, {
         "name": "Love Is Gone 2",
-        "author": "imundefyned",
-        "url": "https://wallpeppers.web.app/static/images/wallpeppers/exclusive/LOVE%20IS%20GONE%202%20AMOLED.png",
-        "thumbnail": "https://wallpeppers.web.app/static/images/wallpeppers/thumbs/exclusive/LOVE%20IS%20GONE%202%20AMOLED.webp",
+        "author": "@imundefyned",
+        "url": "https://raw.githubusercontent.com/undefyned/wallpeppers/master/images/exclusive/LOVE%20IS%20GONE%202%20AMOLED.png",
+        "thumbnail": "https://raw.githubusercontent.com/undefyned/wallpeppers/master/images/thumbs/exclusive/LOVE%20IS%20GONE%202%20AMOLED.webp",
         "collections": "ALL,EXCLUSIVE"
-        }
-    ]
+}
+]
